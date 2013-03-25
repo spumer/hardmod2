@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Choose Type"
+	{
+		"pl"		"Wybierz Typ"
+	}
+
+	"Gagged target"
+	{
+		"pl"		"Zakneblowano {1}."
+	}
+
+	"Ungagged target"
+	{
+		"pl"		"Zdjęto knebel {1}."
+	}
+
+	"Muted target"
+	{
+		"pl"		"Wyciszono {1}."
+	}
+
+	"Unmuted target"
+	{
+		"pl"		"{1} nie jest już wyciszony."
+	}
+
+	"Silenced target"
+	{
+		"pl"		"Uciszono {1}."
+	}
+
+	"Unsilenced target"
+	{
+		"pl"		"{1} nie jest już uciszony."
+	}
+
+	"Gag/Mute player"
+	{
+		"pl"		"Knebluj/Wycisz gracza "
+	}
+
+}

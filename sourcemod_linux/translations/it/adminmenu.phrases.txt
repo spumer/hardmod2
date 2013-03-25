@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Voting Commands"
+	{
+		"it"		"Comandi Votazione"
+	}
+
+	"Server Commands"
+	{
+		"it"		"Comandi Server"
+	}
+
+	"Player Commands"
+	{
+		"it"		"Comandi Giocatore"
+	}
+
+	"Admin Menu"
+	{
+		"it"		"Menu Admin"
+	}
+
+}

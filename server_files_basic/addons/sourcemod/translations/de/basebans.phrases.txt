@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban player"
+	{
+		"de"		"Spieler bannen"
+	}
+
+	"Ban reason"
+	{
+		"de"		"Grund für den Bann"
+	}
+
+	"Permabanned player"
+	{
+		"de"		"\"{1}\" wurde permanent gebannt."
+	}
+
+	"Permabanned player reason"
+	{
+		"de"		"\"{1}\" wurde permanent gebannt (Grund: {2}). "
+	}
+
+	"Banned player"
+	{
+		"de"		" \"{1}\" wurde für {2} Minuten gebannt."
+	}
+
+	"Banned player reason"
+	{
+		"de"		"\"{1}\" wurde für {2} Minuten gebannt (Grund: {3}). "
+	}
+
+	"Ban added"
+	{
+		"de"		"Bann wurde hinzugefügt"
+	}
+
+	"Cannot ban that IP"
+	{
+		"de"		"Du kannst diese IP-Adresse nicht bannen. "
+	}
+
+	"Removed bans matching"
+	{
+		"de"		"Verbannungen passend zum Kriterium '{1}' wurden entfernt."
+	}
+
+}

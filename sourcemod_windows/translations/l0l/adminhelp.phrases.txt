@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"Entries n - m in page k"
+	{
+		"l0l"		"3n7ri3s {1} - {2} in p4g3 {3}"
+	}
+
+	"No commands available"
+	{
+		"l0l"		"N0 c0mm4nds 4v4i14b13"
+	}
+
+	"No description available"
+	{
+		"l0l"		"N0 d3scrip7i0n 4v4i14b1e"
+	}
+
+	"No matching results found"
+	{
+		"l0l"		"N0 m47ching r3su17s f0und"
+	}
+
+	"SM help commands"
+	{
+		"l0l"		"S0urc3M0d H31p: C0mm4nd Inf0rm47ion"
+	}
+
+	"Type sm_help to see more"
+	{
+		"l0l"		"7yp3 sm_help {1} 70 s33 m0r3 c0mm4nds"
+	}
+
+}

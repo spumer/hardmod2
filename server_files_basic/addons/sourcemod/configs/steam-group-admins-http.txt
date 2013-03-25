@@ -1,0 +1,15 @@
+"steam_groups"
+{
+	"1576325"
+	{
+		"admin_group_name"	"Left 4 Crazy"
+		"flags"				"o"
+		"immunity"			"12"
+	}
+	"1853547"
+	{
+		"admin_group_name"	"L4C.Admins"
+		"flags"				"bcfjk"
+		"immunity"			"23"
+	}
+}

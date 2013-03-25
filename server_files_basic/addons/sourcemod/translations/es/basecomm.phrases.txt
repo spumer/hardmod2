@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Gag/Mute player"
+	{
+		"es"		"Gagear/Mutear jugador"
+	}
+
+	"Choose Type"
+	{
+		"es"		"Elige tipo"
+	}
+
+	"Gagged target"
+	{
+		"es"		"{1} gageado."
+	}
+
+	"Muted target"
+	{
+		"es"		"{1} muteado."
+	}
+
+	"Silenced target"
+	{
+		"es"		"{1} silenciado."
+	}
+
+	"Ungagged target"
+	{
+		"es"		"{1} des-gageado."
+	}
+
+	"Unmuted target"
+	{
+		"es"		"{1} des-muteado."
+	}
+
+	"Unsilenced target"
+	{
+		"es"		"{1} desilenciado."
+	}
+
+}

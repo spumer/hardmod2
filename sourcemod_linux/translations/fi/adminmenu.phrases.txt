@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"fi"		"Adminvalikko"
+	}
+
+	"Player Commands"
+	{
+		"fi"		"Pelaajakomennot"
+	}
+
+	"Voting Commands"
+	{
+		"fi"		"Äänestyskomennot"
+	}
+
+	"Server Commands"
+	{
+		"fi"		"Palvelinkomennot"
+	}
+
+}

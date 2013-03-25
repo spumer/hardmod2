@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Changed Next Map"
+	{
+		"sk"		"Nasledujúca mapa bude \"{1}\"."
+	}
+
+	"Current Map Extended"
+	{
+		"sk"		"Predĺženie aktuálnej mapy. (Získanych {1}%% z {2} hlasov)  "
+	}
+
+	"Current Map Stays"
+	{
+		"sk"		"Aktuálna mapa zostáva! (Získanych {1}%% z {2} hlasov)"
+	}
+
+	"Dont Change"
+	{
+		"sk"		"Nehať aktuálnu mapu"
+	}
+
+	"Extend Map"
+	{
+		"sk"		"Predĺžiť aktuálnu mapu"
+	}
+
+	"Nextmap Voting Finished"
+	{
+		"sk"		"Hlasovanie mapy skončené. Ďalšia mapa bude {1}. (Získanych {2}%% z {3} hlasov)  "
+	}
+
+	"Nextmap Voting Started"
+	{
+		"sk"		"Hlasovanie pre ďalšiu mapu spustené."
+	}
+
+	"Vote Nextmap"
+	{
+		"sk"		"Hlasuj za ďalšiu mapu!"
+	}
+
+}

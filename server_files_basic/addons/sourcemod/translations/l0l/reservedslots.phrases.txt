@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"l0l"		"Dr0pp3d 70 du3 70 5l07 r353rv4710n"
+	}
+
+}

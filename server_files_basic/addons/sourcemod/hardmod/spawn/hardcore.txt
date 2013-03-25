@@ -1,0 +1,6 @@
+health
+pistol_magnum
+smg_silenced
+first_aid_kit
+pain_pills
+molotov

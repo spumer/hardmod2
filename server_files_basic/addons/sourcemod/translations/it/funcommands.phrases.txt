@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"Toggled noclip on target"
+	{
+		"it"		"Abilitato/disabilitato il noclip a {1}.  "
+	}
+
+	"Toggled drug on target"
+	{
+		"it"		"Abilitata/disabilitata la droga a {1}.  "
+	}
+
+	"Toggled beacon on target"
+	{
+		"it"		"Abilitata/disabilitata la segnalazione a {1}.  "
+	}
+
+	"Toggled TimeBomb on target"
+	{
+		"it"		"Abilitata/disabilitata la bomba a tempo a {1}.  "
+	}
+
+	"Toggled FreezeBomb on target"
+	{
+		"it"		"Abilitata/disabilitata la bomba congelante a {1}.  "
+	}
+
+	"Toggled FireBomb on target"
+	{
+		"it"		"Abilitata/disabilitata la bomba molotov  a {1}.  "
+	}
+
+	"TimeBomb player"
+	{
+		"it"		"Giocatore Bomba a Tempo"
+	}
+
+	"Till Explodes"
+	{
+		"it"		"{2} secondi prima che {1} esploda.  "
+	}
+
+	"Set target on fire"
+	{
+		"it"		"Settato {1} in versione infuocata"
+	}
+
+	"Set gravity on target"
+	{
+		"it"		"settata la gravità a {1}"
+	}
+
+	"Set blind on target"
+	{
+		"it"		"oscurata la visuale a {1}.  "
+	}
+
+	"NoClip player"
+	{
+		"it"		"NoClip Giocatore"
+	}
+
+	"No blind"
+	{
+		"it"		"Nessuna oscurazione"
+	}
+
+	"Half blind"
+	{
+		"it"		"Metà oscurazione"
+	}
+
+	"Gravity player"
+	{
+		"it"		"Gravità Giocatore"
+	}
+
+	"Gravity amount"
+	{
+		"it"		"Gravità?"
+	}
+
+	"Gravity Very Low"
+	{
+		"it"		"Gravità Veramente Bassa"
+	}
+
+	"Gravity Very High"
+	{
+		"it"		"Gravità Veramente Alta"
+	}
+
+	"Gravity Normal"
+	{
+		"it"		"Gravità Normale"
+	}
+
+	"Gravity Low"
+	{
+		"it"		"Gravità Bassa"
+	}
+
+	"Gravity High"
+	{
+		"it"		"Gravità Alta"
+	}
+
+	"Fully blind"
+	{
+		"it"		"Totale Oscurazione"
+	}
+
+	"Froze target"
+	{
+		"it"		"Ghiacciato {1}.  "
+	}
+
+	"FreezeBomb player"
+	{
+		"it"		"Bomba Congelate Giocatore"
+	}
+
+	"Freeze player"
+	{
+		"it"		"Congela giocatore"
+	}
+
+	"FireBomb player"
+	{
+		"it"		"Giocatore Bomba molotov"
+	}
+
+	"Beacon player"
+	{
+		"it"		"Segnalazione Giocatore"
+	}
+
+	"Blind amount"
+	{
+		"it"		"Quanto Oscurare?"
+	}
+
+	"Blind player"
+	{
+		"it"		"Oscura Giocatore"
+	}
+
+	"Burn player"
+	{
+		"it"		"Brucia Giocatore"
+	}
+
+	"Drug player"
+	{
+		"it"		"Droga Giocatore"
+	}
+
+	"Unfrozen"
+	{
+		"it"		"Sei stato scongelato."
+	}
+
+	"You will be unfrozen"
+	{
+		"it"		"Verrai scongelato in {1} secondi."
+	}
+
+}

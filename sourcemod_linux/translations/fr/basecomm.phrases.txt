@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Unsilenced target"
+	{
+		"fr"		"{1} n'est plus silencieux."
+	}
+
+	"Choose Type"
+	{
+		"fr"		"Choisissez"
+	}
+
+	"Gag/Mute player"
+	{
+		"fr"		"Rendre muet un joueur "
+	}
+
+	"Gagged target"
+	{
+		"fr"		"{1} ne peut plus écrire."
+	}
+
+	"Muted target"
+	{
+		"fr"		"{1} est maintenant muet."
+	}
+
+	"Silenced target"
+	{
+		"fr"		"{1} est maintenant totalement silencieux."
+	}
+
+	"Ungagged target"
+	{
+		"fr"		"{1} peut à nouveau écrire."
+	}
+
+	"Unmuted target"
+	{
+		"fr"		"{1} n'est plus muet."
+	}
+
+}

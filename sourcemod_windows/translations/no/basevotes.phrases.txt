@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"Votekick Player"
+	{
+		"no"		"Kick {1}?"
+	}
+
+	"Voteban Player"
+	{
+		"no"		"Ban {1}?"
+	}
+
+	"Vote Successful"
+	{
+		"no"		"Avstemning fullført. (Mottok {1}%% av {2} stemmer)."
+	}
+
+	"Vote Failed"
+	{
+		"no"		"Mislykket avstemning - {1}%% må nås! (Mottok {1}%% av {2} stemmer)."
+	}
+
+	"Vote End"
+	{
+		"no"		"Svaret på {1} er: {2}!"
+	}
+
+	"Map vote"
+	{
+		"no"		"Kart-avstemning"
+	}
+
+	"Kick vote"
+	{
+		"no"		"Kick-avstemning"
+	}
+
+	"Initiated Vote Map"
+	{
+		"no"		"Satte i gang en kart-avstemning."
+	}
+
+	"Initiated Vote Kick"
+	{
+		"no"		"Satte i gang en kick-avstemning mot {1}."
+	}
+
+	"Initiated Vote Ban"
+	{
+		"no"		"Satte i gang en ban-avstemning mot {1}."
+	}
+
+	"Initiate Vote"
+	{
+		"no"		"Satte i gang en avstemning: {1}."
+	}
+
+	"Confirm Vote"
+	{
+		"no"		"Bekreft stemme."
+	}
+
+	"Change Map To"
+	{
+		"no"		"Bytt kart til {1}?"
+	}
+
+	"Ban vote"
+	{
+		"no"		"Ban-avstemning"
+	}
+
+	"Map Vote"
+	{
+		"no"		"Kart-avstemning: {1}"
+	}
+
+	"Map Vote In Use"
+	{
+		"no"		"En annen admin bruker for øyeblikket menyen for map-avstemning."
+	}
+
+}

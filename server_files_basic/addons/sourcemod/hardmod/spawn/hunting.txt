@@ -1,0 +1,5 @@
+health
+sniper_scout
+pistol_magnum
+pain_pills
+molotov

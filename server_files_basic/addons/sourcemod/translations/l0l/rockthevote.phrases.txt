@@ -1,0 +1,103 @@
+"Phrases"
+{
+	"RTV Vote Ready"
+	{
+		"l0l"		"R0cking 73h v073"
+	}
+
+	"Rock The Vote"
+	{
+		"l0l"		"R0ck 73h  v073:"
+	}
+
+	"Already Nominated"
+	{
+		"l0l"		"Y0u h4v3 41r34dy n0min473d 4 m4p."
+	}
+
+	"Already Voted"
+	{
+		"l0l"		"Y0u h4v3 41r34dy v073d 70 r0ck 73h v073."
+	}
+
+	"Don't Change"
+	{
+		"l0l"		"K33p Curr3n7 M4p"
+	}
+
+	"Changing Maps"
+	{
+		"l0l"		"Ch4nging m4p 70 {1}! R0ck 73h v073 h4s sp0k3n!"
+	}
+
+	"Selected Map"
+	{
+		"l0l"		"{1} h4s s313c73d {2}"
+	}
+
+	"Map Inserted"
+	{
+		"l0l"		"M4p '{1}' 4dd3d 70 R0ck 73h v073."
+	}
+
+	"Map Nominated"
+	{
+		"l0l"		"{1} h4s n0min473d {2} f0r R0ck 73h v073"
+	}
+
+	"Max Nominations"
+	{
+		"l0l"		"75h m4ximum 4110w3d numb3r 0f n0min47i0ns h4s b33n r34ch3d."
+	}
+
+	"No Votes"
+	{
+		"l0l"		"N0 v073s r3c3ived f0r R0ck 73h V073, k33ping curr3nt m4p."
+	}
+
+	"Nominate Title"
+	{
+		"l0l"		"N0min473 M4p:"
+	}
+
+	"RTV Ended"
+	{
+		"l0l"		"RTV h4s 41r34dy 3nd3d, y0u c4nn0t st4rt it 4g4in or n0min4t3 m4ps."
+	}
+
+	"RTV Not Allowed"
+	{
+		"l0l"		"R0ck 73h v073 is n0t all0w3d y3t."
+	}
+
+	"RTV Requested"
+	{
+		"l0l"		"{1} w4n7s 70 r0ck 73h v073. ({2} v073s, {3} r3quir3d.)"
+	}
+
+	"RTV Started"
+	{
+		"l0l"		"R0ck 73h v073 h4s 4lr34dy s74r73d."
+	}
+
+	"Current Map Stays"
+	{
+		"l0l"		"Curr3nt m4p c0n7inu3s! R0ck 73h V073 h4s sp0k3n!"
+	}
+
+	"Map Already In Vote"
+	{
+		"l0l"		"Map '{1}' alr34dy in r0ck 73h V073 lis7."
+	}
+
+	"Map Already Nominated"
+	{
+		"l0l"		"73h m4p y0u ch0s3 h4s 41r34dy b33n n0min4t3d."
+	}
+
+	"Minimal Players Not Met"
+	{
+		"l0l"		"73h minim41 numb3r 0f p14y3rs r3quir3d h4s n07 b33n m3t."
+	}
+
+}

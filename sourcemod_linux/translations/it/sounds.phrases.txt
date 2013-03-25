@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"it"		"Avviato il suono a {1}  "
+	}
+
+}

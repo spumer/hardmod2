@@ -1,0 +1,19 @@
+"Games"
+{
+	"left4dead2"
+	{
+		"Signatures"
+		{
+			/*
+			 *   CTerrorPlayer::OnStaggered(CBaseEntity *, Vector  const*) - used by L4D2 on Survivors, causes staggering (e.g. Charger Impact nearby)
+			 */
+			"CTerrorPlayer::OnStaggered"
+			{
+				"library"	"server"
+				"linux"	"@_ZN13CTerrorPlayer11OnStaggeredEP11CBaseEntityPK6Vector"
+				"windows" "\x83\xEC\x2A\x53\x55\x56\x57\x8B\xF1\xE8\x2A\x2A\x2A\x2A\x84\xC0\x0F\x2A\x2A\x2A\x2A\x2A\x8B\x06\x8B\x90\x2A\x2A\x2A\x2A\x8B\xCE\xFF\xD2\x84\xC0\x0F"
+				/* 83 EC ? 53 55 56 57 8B F1 E8 ? ? ? ? 84 C0 0F ? ? ? ? ? 8B 06 8B 90 ? ? ? ? 8B CE FF D2 84 C0 0F */
+			}
+		}
+	}
+}

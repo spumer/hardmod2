@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Current Map Extended"
+	{
+		"no"		"Gjeldende kart videreføres! (Mottok {1}%% av {2} stemmer)."
+	}
+
+	"Current Map Stays"
+	{
+		"no"		"Gjeldende kart videreføres! Avstemningen har talt! (Mottok {1}%% av {2} stemmer)."
+	}
+
+	"Dont Change"
+	{
+		"no"		"Ikke bytt!"
+	}
+
+	"Extend Map"
+	{
+		"no"		"Forleng gjeldende kart."
+	}
+
+	"Nextmap Voting Finished"
+	{
+		"no"		"Kart-avstemningen er avsluttet. Det neste kartet vil være {1}. (Mottok {2}%% av {3} stemmer)."
+	}
+
+	"Nextmap Voting Started"
+	{
+		"no"		"Avstemning for det neste kartet har startet."
+	}
+
+	"Vote Nextmap"
+	{
+		"no"		"Stem for det neste kartet!"
+	}
+
+	"Changed Next Map"
+	{
+		"no"		"Byttet neste kart til \"{1}\""
+	}
+
+}

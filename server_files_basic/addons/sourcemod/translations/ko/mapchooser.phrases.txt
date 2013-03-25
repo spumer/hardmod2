@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Changed Next Map"
+	{
+		"ko"		"다음 맵을 \"{1}\" 로 바꾸었습니다."
+	}
+
+	"Current Map Stays"
+	{
+		"ko"		" 현재 맵을 계속 합니다! 투표로 결정되었습니다! (전체 인원 {2} 명의 {1}%% 의 표를 받았습니다) "
+	}
+
+	"Dont Change"
+	{
+		"ko"		"바꾸지 말자"
+	}
+
+	"Extend Map"
+	{
+		"ko"		"지금 맵을 더 하자"
+	}
+
+	"Nextmap Voting Finished"
+	{
+		"ko"		" 맵 투표가 끝났습니다. 다음 맵은 {1} 이 될 것입니다. (전체 인원 {3} 명의 {2}%% 의 표를 받았습니다) "
+	}
+
+	"Nextmap Voting Started"
+	{
+		"ko"		"다음 맵을 결정하기 위한 투표가 시작되었습니다."
+	}
+
+	"Vote Nextmap"
+	{
+		"ko"		"다음 맵을 결정하기 위한 투표!"
+	}
+
+	"Current Map Extended"
+	{
+		"ko"		"현재 맵을 연장합니다.(전체 인원 {2} 명의 {1}%% 의 표를 받았습니다)"
+	}
+
+}

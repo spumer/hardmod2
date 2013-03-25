@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Choose Type"
+	{
+		"l0l"		"Ch00s3 7yp3"
+	}
+
+	"Gag/Mute player"
+	{
+		"l0l"		"G4g/Mu73 p14y3r"
+	}
+
+	"Gagged target"
+	{
+		"l0l"		"G4gg3d {1}."
+	}
+
+	"Muted target"
+	{
+		"l0l"		"Mu73d {1}."
+	}
+
+	"Silenced target"
+	{
+		"l0l"		"Si13nc3d {1}."
+	}
+
+	"Ungagged target"
+	{
+		"l0l"		"Ung4gg3d {1}."
+	}
+
+	"Unmuted target"
+	{
+		"l0l"		"Unmu73d {1}."
+	}
+
+	"Unsilenced target"
+	{
+		"l0l"		"Unsi13nc3d {1}."
+	}
+
+}

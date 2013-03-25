@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"_s"
+	{
+		"l0l"		"{1}"
+	}
+
+	"Back"
+	{
+		"l0l"		"B4ck"
+	}
+
+	"Exit"
+	{
+		"l0l"		"3xi7"
+	}
+
+	"Next"
+	{
+		"l0l"		"N3x7"
+	}
+
+	"No Access"
+	{
+		"l0l"		"Y0u d0 n07 h4v3 4cc3ss 70 7his c0mm4nd"
+	}
+
+	"Previous"
+	{
+		"l0l"		"Pr3vi0us"
+	}
+
+	"all alive players"
+	{
+		"l0l"		"411 41iv3 p14y3rs"
+	}
+
+	"all bots"
+	{
+		"l0l"		"411 b0ts"
+	}
+
+	"all dead players"
+	{
+		"l0l"		"411 d34d p14y3rs"
+	}
+
+	"all humans"
+	{
+		"l0l"		"411 hum4ns"
+	}
+
+	"all players"
+	{
+		"l0l"		"411 p14y3rs"
+	}
+
+	"Changed Vote"
+	{
+		"l0l"		"{1} ch4n63d 7h31r v073 70 {2}"
+	}
+
+	"No Vote"
+	{
+		"l0l"		"N0 v073"
+	}
+
+	"Vote Count"
+	{
+		"l0l"		"V0735: {1}/{2}, {3}5 l3f7"
+	}
+
+	"Voted For"
+	{
+		"l0l"		"{1} v073d f0r {2}"
+	}
+
+	"all spectators"
+	{
+		"l0l"		"4ll 5p3c7470r5"
+	}
+
+}

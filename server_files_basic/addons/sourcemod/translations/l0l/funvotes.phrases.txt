@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"Slayed player"
+	{
+		"l0l"		"Sl4y3d p14y3r {1}"
+	}
+
+	"Alltalk vote"
+	{
+		"l0l"		"411741k v073"
+	}
+
+	"Burn vote"
+	{
+		"l0l"		"Burn v073"
+	}
+
+	"Change Gravity To"
+	{
+		"l0l"		"Ch4ng3 gr4vi7y 70 {1}?"
+	}
+
+	"Gravity Vote"
+	{
+		"l0l"		"Gr4vi7y v073: {1}"
+	}
+
+	"Gravity vote"
+	{
+		"l0l"		"Gr4vi7y v073"
+	}
+
+	"Initiated Vote Alltalk"
+	{
+		"l0l"		"Ini7i4t3d 4n 411711k v073"
+	}
+
+	"Initiated Vote Burn"
+	{
+		"l0l"		"Ini7i473d 4 burn v073 4g4ins7 {1}."
+	}
+
+	"Vote FF"
+	{
+		"l0l"		"V073 FF"
+	}
+
+	"Slay vote"
+	{
+		"l0l"		"Sl4y v073"
+	}
+
+	"Initiated Vote Slay"
+	{
+		"l0l"		"Ini7i473d 4 sl4y v073 4g4ins7 {1}."
+	}
+
+	"Initiated Vote Gravity"
+	{
+		"l0l"		"Ini7i473d 4 gr4vi7y v073"
+	}
+
+	"Initiated Vote FF"
+	{
+		"l0l"		"Ini7i473d 4 friend1y fir3 v073"
+	}
+
+	"Votealltalk Off"
+	{
+		"l0l"		"7urn 411741k 0ff? {1}"
+	}
+
+	"Votealltalk On"
+	{
+		"l0l"		"7urn 411741k 0n? {1}"
+	}
+
+	"Voteburn player"
+	{
+		"l0l"		"Burn p14y3r {1}?"
+	}
+
+	"Voteff On"
+	{
+		"l0l"		"7urn friend1y fir3 0n? {1}"
+	}
+
+	"Voteff Off"
+	{
+		"l0l"		"7urn friend1y fir3 0ff? {1}"
+	}
+
+	"Voteslay Player"
+	{
+		"l0l"		"Sl4y {1}?"
+	}
+
+}

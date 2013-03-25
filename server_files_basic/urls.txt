@@ -1,0 +1,46 @@
+Hard Mod
+http://webj.narod.ru/projects/hardmod/
+
+GeoIP
+http://www.maxmind.com/app/ip-location
+
+==== SOURCEMOD EXTENSIONS ============================================
+
+SDK Hooks
+https://forums.alliedmods.net/showthread.php?t=106748
+
+cURL & Hash 1.2.0.0
+https://forums.alliedmods.net/showthread.php?t=152216
+Windows only: Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package MFC Security Update
+http://www.microsoft.com/download/en/details.aspx?id=26347
+
+Socket
+https://forums.alliedmods.net/showthread.php?t=67640
+
+[L4D2] Defibrillator Bug Fix (on servers higher than 8 players)
+https://forums.alliedmods.net/showthread.php?t=118723
+
+[L4D2] 8+ players Bug Fixes (1.0.0.8)
+https://forums.alliedmods.net/showthread.php?t=121945
+
+SteamTools
+https://forums.alliedmods.net/showthread.php?t=129763
+
+==== METAMOD PLUGINS =================================================
+
+L4DToolZ
+https://forums.alliedmods.net/showthread.php?t=93600
+
+SRCDS Denial of Service Protect
+https://forums.alliedmods.net/showthread.php?t=95312
+
+==== SOURCEMOD PLUGINS ===============================================
+
+[L4D2] Charger Steering
+https://forums.alliedmods.net/showthread.php?t=179034
+
+[L4D2] Knife Unlock
+https://forums.alliedmods.net/showthread.php?t=185258
+
+[L4D2] Healing Gnome
+https://forums.alliedmods.net/showthread.php?t=179267

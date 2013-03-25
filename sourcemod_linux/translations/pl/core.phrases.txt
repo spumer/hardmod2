@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"_s"
+	{
+		"pl"		"{1} "
+	}
+
+	"Back"
+	{
+		"pl"		"Wstecz"
+	}
+
+	"Exit"
+	{
+		"pl"		"Wyjdź"
+	}
+
+	"Next"
+	{
+		"pl"		"Dalej"
+	}
+
+	"No Access"
+	{
+		"pl"		"Nie masz dostępu do tej komendy."
+	}
+
+	"Previous"
+	{
+		"pl"		"Poprzednia"
+	}
+
+	"all players"
+	{
+		"pl"		"wszyscy gracze"
+	}
+
+	"all alive players"
+	{
+		"pl"		"wszyscy żywi gracze"
+	}
+
+	"all bots"
+	{
+		"pl"		"wszystkie boty"
+	}
+
+	"all dead players"
+	{
+		"pl"		"wszyscy martwi gracze"
+	}
+
+	"all humans"
+	{
+		"pl"		"wszyscy ludzie"
+	}
+
+	"Voted For"
+	{
+		"pl"		"{1} zagłosował na {2}"
+	}
+
+	"all spectators"
+	{
+		"pl"		"wszyscy obserwatorzy"
+	}
+
+	"Vote Count"
+	{
+		"pl"		"Głosy: {1}/{2}, {3} pozostało(y)"
+	}
+
+	"Changed Vote"
+	{
+		"pl"		"{1} zmienił swój głos na {2}"
+	}
+
+	"No Vote"
+	{
+		"pl"		"Brak Głosowania"
+	}
+
+}

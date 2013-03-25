@@ -1,0 +1,99 @@
+"Games"
+{
+	/* Left 4 Dead 2 */
+	"left4dead2"
+	{		
+		"Offsets"
+		{
+			"GiveNamedItem"
+			{
+				"windows"	"507"
+				"linux"		"508"
+				"mac"		"508"
+			}
+			"RemovePlayerItem"
+			{
+				"windows"	"289"
+				"linux"		"290"
+				"mac"		"290"
+			}
+			"Weapon_GetSlot"
+			{
+				"windows"	"287"
+				"linux"		"288"
+				"mac"		"288"
+			}
+			"Ignite"
+			{
+				"windows"	"222"
+				"linux"		"223"
+				"mac"		"223"
+			}
+			"Extinguish"
+			{
+				"windows"	"225"
+				"linux"		"226"
+				"mac"		"226"
+			}
+			"Teleport"
+			{
+				"windows"	"117"
+				"linux"		"118"
+				"mac"		"118"
+			}
+			"CommitSuicide"
+			{
+				"windows"	"475"
+				"linux"		"475"
+				"mac"		"475"
+			}
+			"GetVelocity"
+			{
+				"windows"	"149"
+				"linux"		"150"
+				"mac"		"150"
+			}
+			"EyeAngles"
+			{
+				"windows"	"140"
+				"linux"		"141"
+				"mac"		"141"
+			}
+			"AcceptInput"
+			{
+				"windows"	"43"
+				"linux"		"44"
+				"mac"		"44"
+			}
+			"SetEntityModel"
+			{
+				"windows"	"26"
+				"linux"		"27"
+				"mac"		"27"
+			}
+			"WeaponEquip"
+			{
+				"windows"	"280"
+				"linux"		"281"
+				"mac"		"281"
+			}
+			"Activate"
+			{
+				"windows"	"35"
+				"linux"		"36"
+				"mac"		"36"
+			}
+			"PlayerRunCmd"
+			{
+				"windows"	"453"
+				"linux"		"454"
+				"mac"		"454"
+			}
+		}
+		
+		"Keys"
+		{
+			"GameRulesProxy"	"CTerrorGameRulesProxy"
+		}
+	}
+}

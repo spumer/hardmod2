@@ -1,0 +1,103 @@
+"Phrases"
+{
+	"Already Nominated"
+	{
+		"sk"		"Už si nominoval mapu."
+	}
+
+	"Already Voted"
+	{
+		"sk"		"Už si hlasoval pre RTV."
+	}
+
+	"Changing Maps"
+	{
+		"sk"		"Mení sa mapa na {1}! Rockthevote odhlasoval."
+	}
+
+	"Current Map Stays"
+	{
+		"sk"		"Aktualná mapa ostáva!"
+	}
+
+	"Don't Change"
+	{
+		"sk"		"Ponechať aktuálnu mapu."
+	}
+
+	"Map Already In Vote"
+	{
+		"sk"		"Mapa '{1}' je uz v RTV zozname."
+	}
+
+	"Map Already Nominated"
+	{
+		"sk"		"Mapu ktorú si zvolil už bola nominovaná."
+	}
+
+	"Map Inserted"
+	{
+		"sk"		"Mapa '{1}' Pridaná do Rock the Vote."
+	}
+
+	"Map Nominated"
+	{
+		"sk"		"{1} nominoval {2} na Rock the Vote.  "
+	}
+
+	"Max Nominations"
+	{
+		"sk"		"Dosiahnutý limit povolených nominácií."
+	}
+
+	"Minimal Players Not Met"
+	{
+		"sk"		"Nedosiahnutý minimálny počet hráčov na žačanie hlasovania."
+	}
+
+	"No Votes"
+	{
+		"sk"		"Žiadne hlasy na RTV, zmena mapy sa nekoná."
+	}
+
+	"Nominate Title"
+	{
+		"sk"		"Nominovať mapu:"
+	}
+
+	"RTV Ended"
+	{
+		"sk"		"RTV už skončilo, nedá sa znova začať."
+	}
+
+	"RTV Not Allowed"
+	{
+		"sk"		"RTV este nieje možné začať."
+	}
+
+	"RTV Requested"
+	{
+		"sk"		"{1} chce spustiť Rockthevote. ({2} hlasov, {3} potrebných)  "
+	}
+
+	"RTV Started"
+	{
+		"sk"		"Rock the Vote už bolo spustené."
+	}
+
+	"RTV Vote Ready"
+	{
+		"sk"		"Hlasovanie na vynúťenú zmenu mapy!"
+	}
+
+	"Rock The Vote"
+	{
+		"sk"		"Hlasovať za mapu :"
+	}
+
+	"Selected Map"
+	{
+		"sk"		"{1} vybral {2}  "
+	}
+
+}

@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"Ban vote"
+	{
+		"ko"		"차단 투표"
+	}
+
+	"Change Map To"
+	{
+		"ko"		"맵을 {1} 로 바꿀까요?"
+	}
+
+	"Confirm Vote"
+	{
+		"ko"		"투표가 확정되었습니다"
+	}
+
+	"Initiate Vote"
+	{
+		"ko"		"투표를 시작했습니다 : {1}  "
+	}
+
+	"Initiated Vote Ban"
+	{
+		"ko"		"{1} 님에 대한 차단 투표를 시작했습니다."
+	}
+
+	"Initiated Vote Kick"
+	{
+		"ko"		"{1} 님에 대한 추방 투표를 시작했습니다."
+	}
+
+	"Initiated Vote Map"
+	{
+		"ko"		"맵 투표를 시작했습니다."
+	}
+
+	"Kick vote"
+	{
+		"ko"		"추방 투표"
+	}
+
+	"Map Vote"
+	{
+		"ko"		"맵 투표 : {1}"
+	}
+
+	"Map Vote In Use"
+	{
+		"ko"		"현재 다른 관리자가 맵 투표 메뉴를 사용하고 있습니다."
+	}
+
+	"Map vote"
+	{
+		"ko"		"맵 투표"
+	}
+
+	"Vote End"
+	{
+		"ko"		"{1} 에 대한 답은 {2} 입니다."
+	}
+
+	"Vote Failed"
+	{
+		"ko"		"투표에 실패했습니다. {1}%% 의 투표가 필요합니다. (전체 인원 {3} 명의 {2}%% 가 투표했습니다)"
+	}
+
+	"Vote Successful"
+	{
+		"ko"		"투표에 성공했습니다. (전체 인원 {2} 명의 {1}%% 가 투표했습니다)"
+	}
+
+	"Voteban Player"
+	{
+		"ko"		"{1} 님을 차단할까요? "
+	}
+
+	"Votekick Player"
+	{
+		"ko"		"{1} 님을 추방할까요?"
+	}
+
+}

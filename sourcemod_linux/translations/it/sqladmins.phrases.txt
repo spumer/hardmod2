@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"SQL Group not found"
+	{
+		"it"		"Nessun gruppo con il nome dato è stato trovato."
+	}
+
+	"SQL Group deleted"
+	{
+		"it"		"Gruppo eliminato con successo dal database."
+	}
+
+	"SQL Group already exists"
+	{
+		"it"		"Un gruppo con questo nome esiste già."
+	}
+
+	"SQL Group added"
+	{
+		"it"		"Gruppo aggiunto con successo al database."
+	}
+
+	"SQL Group X not found"
+	{
+		"it"		"Impossibile trovare il gruppo: \"{1}\"  "
+	}
+
+	"SQL Group X failed to bind"
+	{
+		"it"		"Gruppo fallito nell'aggiunta: \"{1}\"  "
+	}
+
+	"SQL Admin not found"
+	{
+		"it"		"Nessun amministratore con le credenziali di dare è stato trovato."
+	}
+
+	"SQL Admin groups reset"
+	{
+		"it"		"Il Gruppo amministratori è stato resettato con successo."
+	}
+
+	"SQL Admin deleted"
+	{
+		"it"		"Amministratore eliminato con successo dal database."
+	}
+
+	"SQL Admin already exists"
+	{
+		"it"		"Un amministratore con le credenziali di dare esiste gia."
+	}
+
+	"SQL Admin added"
+	{
+		"it"		"Amministratore  aggiunto con successo al database."
+	}
+
+	"Invalid immunity"
+	{
+		"it"		"l'immunità deve avere un valore positivo."
+	}
+
+	"Invalid authtype"
+	{
+		"it"		"Il tipo di Auth deve essere per 'steam', 'name', o 'ip'.  "
+	}
+
+	"Added group to user"
+	{
+		"it"		"Aggiunto con successo un gruppo  amministratore del dare."
+	}
+
+	"Added groups to user"
+	{
+		"it"		"Aggiunto con successo {1} gruppi agli amministratori del dare."
+	}
+
+}

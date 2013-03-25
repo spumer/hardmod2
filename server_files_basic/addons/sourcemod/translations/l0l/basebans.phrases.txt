@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban added"
+	{
+		"l0l"		"B4n h4s b33n 4dd3d."
+	}
+
+	"Ban player"
+	{
+		"l0l"		"B4n p14y3r"
+	}
+
+	"Ban reason"
+	{
+		"l0l"		"B4n r34s0n"
+	}
+
+	"Banned player"
+	{
+		"l0l"		"B4nn3d p14y3r \"{1}\" f0r {2} minu73s."
+	}
+
+	"Banned player reason"
+	{
+		"l0l"		"B4nn3d p14y3r \"{1}\" f0r {2} minu73s (r34s0n: {3})."
+	}
+
+	"Cannot ban that IP"
+	{
+		"l0l"		"Y0u c4nn0t b4n 7his IP 4ddr3ss."
+	}
+
+	"Permabanned player"
+	{
+		"l0l"		"P3rm4n3n71y b4nn3d p14y3r \"{1}\"."
+	}
+
+	"Permabanned player reason"
+	{
+		"l0l"		"P3rm4n3n71y b4nn3d p14y3r \"{1}\" (r34s0n: {2})."
+	}
+
+	"Removed bans matching"
+	{
+		"l0l"		"R3m0v3d b4ns m47ching fi173r: {1} "
+	}
+
+}

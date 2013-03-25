@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Gag/Mute player"
+	{
+		"de"		"Spieler Knebeln/Stummschalten"
+	}
+
+	"Gagged target"
+	{
+		"de"		"{1} wurde geknebelt. "
+	}
+
+	"Muted target"
+	{
+		"de"		"{1} wurde stummgeschaltet. "
+	}
+
+	"Silenced target"
+	{
+		"de"		"{1} wurde zum Schweigen gebracht."
+	}
+
+	"Ungagged target"
+	{
+		"de"		"{1} wurde entknebelt. "
+	}
+
+	"Unmuted target"
+	{
+		"de"		"{1}'s Stummschaltung wurde aufgehoben."
+	}
+
+	"Unsilenced target"
+	{
+		"de"		"{1} darf sich nun wieder äußern."
+	}
+
+	"Choose Type"
+	{
+		"de"		"Wähle Art "
+	}
+
+}

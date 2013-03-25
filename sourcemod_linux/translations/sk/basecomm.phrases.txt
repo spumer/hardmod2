@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Choose Type"
+	{
+		"sk"		"Vyberte typ"
+	}
+
+	"Muted target"
+	{
+		"sk"		"Umlčaný (Mikrofón) {1}."
+	}
+
+	"Gagged target"
+	{
+		"sk"		"Umlčaný (Text) {1}."
+	}
+
+	"Gag/Mute player"
+	{
+		"sk"		"Umlčat Text/Mikr. hráčovi"
+	}
+
+	"Silenced target"
+	{
+		"sk"		"Úplne umlčaný hráč {1}."
+	}
+
+	"Ungagged target"
+	{
+		"sk"		"Odmlčaný hrač (text) {1}."
+	}
+
+	"Unmuted target"
+	{
+		"sk"		"Odmlčaný hrač (mikrofón) {1}."
+	}
+
+	"Unsilenced target"
+	{
+		"sk"		"Odmlčaný hrác {1}."
+	}
+
+}

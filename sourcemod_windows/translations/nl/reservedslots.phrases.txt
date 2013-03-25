@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"nl"		"Verwijdert door reserve slot"
+	}
+
+}

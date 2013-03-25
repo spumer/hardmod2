@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban added"
+	{
+		"fi"		"Banni lisätty"
+	}
+
+	"Ban player"
+	{
+		"fi"		"Bannaa pelaaja"
+	}
+
+	"Ban reason"
+	{
+		"fi"		"Bannin syy"
+	}
+
+	"Banned player"
+	{
+		"fi"		"Bannattiin pelaaja \"{1}\" {2} minuutiksi."
+	}
+
+	"Banned player reason"
+	{
+		"fi"		"Bannattiin pelaaja \"{1}\" {2} minuutiksi (syy: {3})."
+	}
+
+	"Cannot ban that IP"
+	{
+		"fi"		"Et voi bannata kyseistä IP-osoitetta."
+	}
+
+	"Permabanned player"
+	{
+		"fi"		"Bannattiin pysyvästi pelaaja \"{1}\"."
+	}
+
+	"Permabanned player reason"
+	{
+		"fi"		"Bannattiin pysyvästi pelaaja \"{1}\" (syy: {2})."
+	}
+
+	"Removed bans matching"
+	{
+		"fi"		"Poistettiin bannit jotka vastaavat suodatusta: {1}"
+	}
+
+}

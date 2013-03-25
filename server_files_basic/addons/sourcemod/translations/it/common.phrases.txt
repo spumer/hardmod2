@@ -1,0 +1,253 @@
+"Phrases"
+{
+	"Yes"
+	{
+		"it"		"Si"
+	}
+
+	"Vote in Progress"
+	{
+		"it"		"Il voto è gia avviato."
+	}
+
+	"Vote Select"
+	{
+		"it"		"{1} ha scelto {2}.  "
+	}
+
+	"Vote Not In Progress"
+	{
+		"it"		"Non  è attivo alcun voto in questo momento"
+	}
+
+	"Vote Delay Seconds"
+	{
+		"it"		"Devi aspettare {1}  secondi prima di avviare un'altro voto."
+	}
+
+	"Vote Delay Minutes"
+	{
+		"it"		"Devi aspettare {1} minuti prima di avviare un'altro voto. "
+	}
+
+	"Value of cvar"
+	{
+		"it"		"valore della cvar \"{1}\": \"{2}\"  "
+	}
+
+	"Unable to target"
+	{
+		"it"		"Non puoi tracciare questo giocatore."
+	}
+
+	"Unable to find cvar"
+	{
+		"it"		"Impossibile trovare la cvar: {1}  "
+	}
+
+	"Target must be dead"
+	{
+		"it"		"Questo comando può essere usato solo nei giocatori morti."
+	}
+
+	"Target must be alive"
+	{
+		"it"		"Questo comando può essere usato solo nei giocatori in vita."
+	}
+
+	"Target is not in game"
+	{
+		"it"		"il giocatore scelto non è ancora totalmente in gioco ancora."
+	}
+
+	"Slayed player"
+	{
+		"it"		"Slayato il giocatore '{1}'  "
+	}
+
+	"Slapped player"
+	{
+		"it"		"Colpito il giocatore '{1}'  "
+	}
+
+	"See console for output"
+	{
+		"it"		"Controlla la console per il risultato"
+	}
+
+	"Reload admins"
+	{
+		"it"		"Ricarica admins"
+	}
+
+	"Player no longer available"
+	{
+		"it"		"il giocatore che hai scelto non è più disponibile"
+	}
+
+	"Player has since died"
+	{
+		"it"		"L'azione non può essere eseguita, il giocatore è morto."
+	}
+
+	"On"
+	{
+		"it"		"Acceso"
+	}
+
+	"Off"
+	{
+		"it"		"Spento"
+	}
+
+	"Played Sound"
+	{
+		"it"		"Avviato  un suono nel giocatore  '{1}'  "
+	}
+
+	"No matching clients"
+	{
+		"it"		"Nessun utente simile è stato trovato."
+	}
+
+	"No matching client"
+	{
+		"it"		"Nessun utente simile è stato trovato."
+	}
+
+	"No access to cvar"
+	{
+		"it"		"Non hai accesso a questa cvar."
+	}
+
+	"No Votes Cast"
+	{
+		"it"		"Nessun voto è stato avviato."
+	}
+
+	"No"
+	{
+		"it"		"No"
+	}
+
+	"Name"
+	{
+		"it"		"Nome"
+	}
+
+	"More than one client matches"
+	{
+		"it"		"Più di un utente è stato trovato con il nome \"{1}\"  "
+	}
+
+	"More than one client matched"
+	{
+		"it"		"Più di un utente è stato trovato con il nome impostato."
+	}
+
+	"Map was not found"
+	{
+		"it"		"La mappa {1}  non è stata trovata"
+	}
+
+	"Kicked player"
+	{
+		"it"		"Kciato il giocatore '{1}'  "
+	}
+
+	"Kicked by admin"
+	{
+		"it"		"Kickato da un'amministratore"
+	}
+
+	"Kick player"
+	{
+		"it"		"Kicka Giocatore"
+	}
+
+	"Invalid SteamID specified"
+	{
+		"it"		"Hai specificato uno Steam ID invalido (deve inizare con 'STEAM_:').  "
+	}
+
+	"Invalid Amount"
+	{
+		"it"		"Quantitativo specificato non valido."
+	}
+
+	"Failed to query database"
+	{
+		"it"		"Fallita la la domanda al database."
+	}
+
+	"Executed config"
+	{
+		"it"		"Eseguito config \"{1}\".  "
+	}
+
+	"Cvar changed"
+	{
+		"it"		"Cambiata cvar \"{1}\" con \"{2}\".  "
+	}
+
+	"Could not connect to database"
+	{
+		"it"		"Impossibile collegarsi con il database."
+	}
+
+	"Config not found"
+	{
+		"it"		"File config \"{1}\" non trovato."
+	}
+
+	"Command is in-game only"
+	{
+		"it"		"Questo comando può essere usato solo in gioco."
+	}
+
+	"Changing map"
+	{
+		"it"		"Cambio mappa con {1}...  "
+	}
+
+	"Cannot target bot"
+	{
+		"it"		"Impossibile eseguire questo comando in un bot."
+	}
+
+	"Cannot participate in vote"
+	{
+		"it"		"Non puoi partecipare a questo voto."
+	}
+
+	"Cannot change vote"
+	{
+		"it"		"Non puoi cambiare la tua selezione per questo voto."
+	}
+
+	"Cannot be performed on dead"
+	{
+		"it"		"Questa azione non può essere eseguita nel giocatore morto \"{1}\"  "
+	}
+
+	"Cancelled Vote"
+	{
+		"it"		"Ha cancellato il voto."
+	}
+
+	"Cancel vote"
+	{
+		"it"		"Cancella voto"
+	}
+
+	"Admin cache refreshed"
+	{
+		"it"		"La cache Admin è stata aggiornata."
+	}
+
+	"Access"
+	{
+		"it"		"Accesso"
+	}
+
+}

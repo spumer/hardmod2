@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"Current Map"
+	{
+		"pt"		"O mapa atual é {1}."
+	}
+
+	"Friendly Fire Off"
+	{
+		"pt"		"Fogo amigo está desligado."
+	}
+
+	"Friendly Fire On"
+	{
+		"pt"		"Fogo amigo está ligado."
+	}
+
+	"Thetime"
+	{
+		"pt"		"O horário atual do servidor é {1}"
+	}
+
+	"Timeleft"
+	{
+		"pt"		"Tempo restante para o mapa:"
+	}
+
+	"Pending Vote"
+	{
+		"pt"		"Votação Pendente"
+	}
+
+	"NoTimelimit"
+	{
+		"pt"		"Não há limite de tempo para o mapa"
+	}
+
+	"Next Map"
+	{
+		"pt"		"Próximo Mapa: {1}"
+	}
+
+	"LastRound"
+	{
+		"pt"		"Esta é a última rodada!"
+	}
+
+	"WinLimitPlural"
+	{
+		"pt"		", ou será mudado quando uma equipe vencer {1} rodadas"
+	}
+
+	"WinLimitAppendPlural"
+	{
+		"pt"		"O mapa será mudado quando uma equipe vencer {1} rodadas"
+	}
+
+	"WinLimitAppend"
+	{
+		"pt"		", ou será mudado quando uma equipe vencer uma rodada"
+	}
+
+	"WinLimit"
+	{
+		"pt"		"O mapa será mudado quando uma equipe vencer uma rodada"
+	}
+
+	"MaxRoundsPlural"
+	{
+		"pt"		", ou será mudado após mais {1} rodadas"
+	}
+
+	"MaxRoundsAppendPlural"
+	{
+		"pt"		"O mapa será mudado após mais {1} rodadas"
+	}
+
+	"MaxRoundsAppend"
+	{
+		"pt"		", ou será mudado após mais uma rodada"
+	}
+
+	"MaxRounds"
+	{
+		"pt"		"O mapa será mudado após mais uma rodada"
+	}
+
+	"FragLimitPlural"
+	{
+		"pt"		"O Mapa será mudado quando um jogador atingir {1} frags"
+	}
+
+	"FragLimitAppendPlural"
+	{
+		"pt"		", ou será mudado quando um jogador atingir {1} frags"
+	}
+
+	"FragLimitAppend"
+	{
+		"pt"		", ou o mapa será mudado quando um jogador atingir um frag"
+	}
+
+	"FragLimit"
+	{
+		"pt"		"O Mapa será mudado quando um jogador atingir um frag"
+	}
+
+}

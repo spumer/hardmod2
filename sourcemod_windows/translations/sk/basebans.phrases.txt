@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban added"
+	{
+		"sk"		"Ban bol pridaný"
+	}
+
+	"Ban player"
+	{
+		"sk"		"Zabanovať hráča"
+	}
+
+	"Ban reason"
+	{
+		"sk"		"Dôvod banu"
+	}
+
+	"Banned player"
+	{
+		"sk"		"Hráč \"{1}\" bol zabanovaný na {2} minút."
+	}
+
+	"Cannot ban that IP"
+	{
+		"sk"		"Určená IP sa nedá zabanovať"
+	}
+
+	"Permabanned player"
+	{
+		"sk"		"Doživotne zabanovaný hráč \"{1}\". "
+	}
+
+	"Permabanned player reason"
+	{
+		"sk"		"Doživotne zabanovaný hráč \"{1}\" (dôvod: {2}). "
+	}
+
+	"Removed bans matching"
+	{
+		"sk"		"Zrušené bany pre túto IP/ID: {1} "
+	}
+
+	"Banned player reason"
+	{
+		"sk"		"Hráč \"{1}\" bol zabanovaný na {2} minút. (dôvod: {3}). "
+	}
+
+}

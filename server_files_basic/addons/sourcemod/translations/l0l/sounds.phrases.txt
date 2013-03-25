@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"l0l"		"P1y3d s0und 70 {1}"
+	}
+
+}

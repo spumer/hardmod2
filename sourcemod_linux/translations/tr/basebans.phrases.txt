@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban added"
+	{
+		"tr"		"Yasaklama eklendi."
+	}
+
+	"Ban player"
+	{
+		"tr"		"Oyuncuyu yasakla"
+	}
+
+	"Ban reason"
+	{
+		"tr"		"Yasaklama nedeni"
+	}
+
+	"Banned player reason"
+	{
+		"tr"		"\"{1}\" adlı kullanıcı {2} dakikalığına yasaklandı (neden: {3})."
+	}
+
+	"Cannot ban that IP"
+	{
+		"tr"		"O IP adresini yasaklayamazsınız."
+	}
+
+	"Permabanned player"
+	{
+		"tr"		"\"{1}\" adlı kullanıcı kalıcı olarak yasaklandı."
+	}
+
+	"Permabanned player reason"
+	{
+		"tr"		"\"{1}\" adlı kullanıcı kalıcı olarak yasaklandı (neden: {2})."
+	}
+
+	"Removed bans matching"
+	{
+		"tr"		"Bu süzgeçe uyan yasaklamalar kaldırıldı: {1}"
+	}
+
+	"Banned player"
+	{
+		"tr"		"\"{1}\" adlı oyuncu {2} dakikalığına yasaklandı."
+	}
+
+}

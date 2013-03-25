@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"Vote End"
+	{
+		"de"		"Das Ergebnis von {1} ist: {2}."
+	}
+
+	"Map Vote"
+	{
+		"de"		"Karten-Abstimmung: {1}"
+	}
+
+	"Vote Successful"
+	{
+		"de"		"Abstimmung erfolgreich. ({1}%% von {2} Stimmen) "
+	}
+
+	"Vote Failed"
+	{
+		"de"		"Abstimmung fehlgeschlagen. ({1}%% der Stimmen benötigt; {2}%% von {3} Stimmen erhalten) "
+	}
+
+	"Initiate Vote"
+	{
+		"de"		"Abstimmung gestartet: {1}"
+	}
+
+	"Initiated Vote Kick"
+	{
+		"de"		"Kick-Abstimmung gegen {1} gestartet."
+	}
+
+	"Initiated Vote Ban"
+	{
+		"de"		"Bann-Abstimmung gegen {1} gestartet."
+	}
+
+	"Votekick Player"
+	{
+		"de"		"{1} kicken?"
+	}
+
+	"Kick vote"
+	{
+		"de"		"Kick-Abstimmung"
+	}
+
+	"Ban vote"
+	{
+		"de"		"Bann-Abstimmung"
+	}
+
+	"Initiated Vote Map"
+	{
+		"de"		"Karten-Abstimmung gestartet."
+	}
+
+	"Change Map To"
+	{
+		"de"		"Wechsel Karte zu {1}?"
+	}
+
+	"Confirm Vote"
+	{
+		"de"		"Abstimmung bestätigen "
+	}
+
+	"Map vote"
+	{
+		"de"		"Karten-Abstimmung"
+	}
+
+	"Voteban Player"
+	{
+		"de"		"{1} bannen? "
+	}
+
+	"Map Vote In Use"
+	{
+		"de"		"Ein anderer Admin benutzt derzeit das Karten-Abstimmungs Menü."
+	}
+
+}

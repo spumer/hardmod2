@@ -1,0 +1,12 @@
+/**
+ * List config files here (relative to moddir) to have them added to the exec config menu list
+ * Left side is the filename, right side is the text to be added to the menu
+ */
+Configs
+{
+	"cfg/fun/hardcore.cfg"			"HARDCORE!"
+	"cfg/server_shutdown.cfg"		"Shutdown Server"
+	"cfg/maps_points/map_points.cfg"	"Set Points Map"
+	"cfg/maps_points/map_no_points.cfg"	"Set No Points Map"
+	"cfg/fun/melee.cfg"			"Melee Only!"
+}

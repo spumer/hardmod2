@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Next Map"
+	{
+		"sk"		"Ďalšia mapa : {1} "
+	}
+
+	"ago"
+	{
+		"sk"		"pred"
+	}
+
+	"Started"
+	{
+		"sk"		"[Spustené]  "
+	}
+
+	"Reason"
+	{
+		"sk"		"[Dôvod pre ukončenie]  "
+	}
+
+	"Played Time"
+	{
+		"sk"		"[Herný čas]  "
+	}
+
+	"Map History"
+	{
+		"sk"		"História zmien map"
+	}
+
+	"Map"
+	{
+		"sk"		"[Mapa]"
+	}
+
+	"Current Map"
+	{
+		"sk"		"Aktuálna mapa"
+	}
+
+}

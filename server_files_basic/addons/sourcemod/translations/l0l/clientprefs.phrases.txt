@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Choose Option"
+	{
+		"l0l"		"Ch0053 0p710n"
+	}
+
+	"Client Settings"
+	{
+		"l0l"		"Cl13n7 53771n65"
+	}
+
+	"Cookie Changed Value"
+	{
+		"l0l"		"Ch4n63d 7h3 v4lu3 0f c00k13 \"{1}\" 70 \"{2}\""
+	}
+
+	"Cookie List"
+	{
+		"l0l"		"50urc3m0d C00k13 l157"
+	}
+
+	"Cookie Value"
+	{
+		"l0l"		"{1}'5 v4lu3 15 {2}"
+	}
+
+	"Cookie not Found"
+	{
+		"l0l"		"C0uld n07 f1nd c00k13 \"{1}\""
+	}
+
+	"No Console"
+	{
+		"l0l"		"C4nn07 d15pl4y 53771n65 m3nu 70 c0n50l3"
+	}
+
+	"Printing Cookie List"
+	{
+		"l0l"		"Pr1n71n6 c00k13 l157 70 c0n50l3"
+	}
+
+	"Protected Cookie"
+	{
+		"l0l"		"C4nn07 ch4n63 7h3 v4lu3 0f pr073c73d c00k13 \"{1}\""
+	}
+
+}

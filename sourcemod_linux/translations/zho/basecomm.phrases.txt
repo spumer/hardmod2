@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Gagged target"
+	{
+		"zho"		"{1} 已被禁言."
+	}
+
+	"Ungagged target"
+	{
+		"zho"		"{1} 已被解除禁言."
+	}
+
+	"Choose Type"
+	{
+		"zho"		"選擇類別"
+	}
+
+	"Silenced target"
+	{
+		"zho"		"已令 {1} 緘默."
+	}
+
+	"Unsilenced target"
+	{
+		"zho"		"{1} 已被解除緘默."
+	}
+
+	"Gag/Mute player"
+	{
+		"zho"		"將玩家禁言/靜音"
+	}
+
+	"Muted target"
+	{
+		"zho"		"{1} 已被靜音. "
+	}
+
+	"Unmuted target"
+	{
+		"zho"		"{1} 已被解除靜音."
+	}
+
+}

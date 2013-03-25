@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"No commands available"
+	{
+		"sk"		"Žiadne dostupné príkazy"
+	}
+
+	"No description available"
+	{
+		"sk"		"Žiadne dostupné vysvetlenie"
+	}
+
+	"No matching results found"
+	{
+		"sk"		"Žiadna zhoda"
+	}
+
+	"SM help commands"
+	{
+		"sk"		"SourceMod Pomocník: Informácie príkazov"
+	}
+
+	"Type sm_help to see more"
+	{
+		"sk"		"Napíš sm_help {1} pre zobrazenie ďalšej strany"
+	}
+
+	"Entries n - m in page k"
+	{
+		"sk"		"Položiek {1} - {2} na strane {3}  "
+	}
+
+}

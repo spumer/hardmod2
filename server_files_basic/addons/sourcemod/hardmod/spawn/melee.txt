@@ -1,0 +1,5 @@
+blackwhite
+temphealth
+baseball_bat
+pain_pills
+defibrillator

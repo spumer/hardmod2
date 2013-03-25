@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"sk"		"Nemaš práva na rezervovaný slot"
+	}
+
+}

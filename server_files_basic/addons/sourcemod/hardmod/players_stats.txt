@@ -1,0 +1,233 @@
+"points_data"
+{
+	"info"
+	{
+		"count"		"0"
+	}
+	"mapsdata"
+	{
+		"c1m1_hotel"
+		{
+			"Multiplier"		"0.600000"
+		}
+		"c1m2_streets"
+		{
+			"Multiplier"		"1.500000"
+		}
+		"c1m3_mall"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c1m4_atrium"
+		{
+			"Multiplier"		"0.800000"
+		}
+		"c2m1_highway"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c2m2_fairgrounds"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c2m3_coaster"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c2m4_barns"
+		{
+			"Multiplier"		"1.500000"
+		}
+		"c2m5_concert"
+		{
+			"Multiplier"		"0.800000"
+		}
+		"c3m1_plankcountry"
+		{
+			"Multiplier"		"1.100000"
+		}
+		"c3m2_swamp"
+		{
+			"Multiplier"		"1.500000"
+		}
+		"c3m3_shantytown"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c3m4_plantation"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c4m1_milltown_a"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c4m2_sugarmill_a"
+		{
+			"Multiplier"		"2.000000"
+		}
+		"c4m3_sugarmill_b"
+		{
+			"Multiplier"		"1.100000"
+		}
+		"c4m4_milltown_b"
+		{
+			"Multiplier"		"1.100000"
+		}
+		"c4m5_milltown_escape"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c5m1_waterfront"
+		{
+			"Multiplier"		"0.600000"
+		}
+		"c5m2_park"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c5m3_cemetery"
+		{
+			"Multiplier"		"2.000000"
+		}
+		"c5m4_quarter"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c5m5_bridge"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c6m1_riverbank"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c6m2_bedlam"
+		{
+			"Multiplier"		"1.500000"
+		}
+		"c6m3_port"
+		{
+			"Multiplier"		"0.800000"
+		}
+		"c7m1_docks"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c7m2_barge"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c7m3_port"
+		{
+			"Multiplier"		"0.600000"
+		}
+		"c8m1_apartment"
+		{
+			"Multiplier"		"0.600000"
+		}
+		"c8m2_subway"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c8m3_sewers"
+		{
+			"Multiplier"		"0.800000"
+		}
+		"c8m4_interior"
+		{
+			"Multiplier"		"1.500000"
+		}
+		"c8m5_rooftop"
+		{
+			"Multiplier"		"0.800000"
+		}
+		"c13m1_alpinecreek"
+		{
+			"Multiplier"		"1.300000"
+		}
+		"c13m2_southpinestream"
+		{
+			"Multiplier"		"1.800000"
+		}
+		"c13m3_memorialbridge"
+		{
+			"Multiplier"		"1.600000"
+		}
+		"c13m4_cutthroatcreek"
+		{
+			"Multiplier"		"2.000000"
+		}
+		"c11m1_greenhouse"
+		{
+			"Multiplier"		"0.800000"
+		}
+		"c11m2_offices"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c11m3_garage"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c11m4_terminal"
+		{
+			"Multiplier"		"1.500000"
+		}
+		"c11m5_runway"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"C12m1_hilltop"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c12m2_traintunnel"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c12m3_bridge"
+		{
+			"Multiplier"		"1.300000"
+		}
+		"c12m4_barn"
+		{
+			"Multiplier"		"1.800000"
+		}
+		"C12m5_cornfield"
+		{
+			"Multiplier"		"1.500000"
+		}
+		"c10m1_caves"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c10m2_drainage"
+		{
+			"Multiplier"		"1.300000"
+		}
+		"c10m3_ranchhouse"
+		{
+			"Multiplier"		"1.200000"
+		}
+		"c10m4_mainstreet"
+		{
+			"Multiplier"		"1.300000"
+		}
+		"c10m5_houseboat"
+		{
+			"Multiplier"		"1.400000"
+		}
+		"c9m1_alleys"
+		{
+			"Multiplier"		"1.000000"
+		}
+		"c9m2_lots"
+		{
+			"Multiplier"		"1.200000"
+		}
+	}
+	"data"
+	{
+	}
+}

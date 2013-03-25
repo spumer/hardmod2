@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"l0l"		"4dmin M3nu"
+	}
+
+	"Player Commands"
+	{
+		"l0l"		"p14y3r C0mm4nds"
+	}
+
+	"Server Commands"
+	{
+		"l0l"		"S3rv3r C0mm4nds"
+	}
+
+	"Voting Commands"
+	{
+		"l0l"		"V07ing C0mm4nds"
+	}
+
+}

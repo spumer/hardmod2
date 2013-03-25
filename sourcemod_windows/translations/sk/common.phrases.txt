@@ -1,0 +1,253 @@
+"Phrases"
+{
+	"Yes"
+	{
+		"sk"		"Áno"
+	}
+
+	"Access"
+	{
+		"sk"		"Prístup"
+	}
+
+	"Admin cache refreshed"
+	{
+		"sk"		"Admini boli obnovený."
+	}
+
+	"Cancel vote"
+	{
+		"sk"		"Zrušiť hlasovanie"
+	}
+
+	"Cancelled Vote"
+	{
+		"sk"		"Hlasovanie zrušené."
+	}
+
+	"Cannot be performed on dead"
+	{
+		"sk"		"Akcia na nedá aplikovať na mŕtveho hráča \"{1}\" "
+	}
+
+	"Cannot target bot"
+	{
+		"sk"		"Akcia sa nedá aplikovať na bota."
+	}
+
+	"Changing map"
+	{
+		"sk"		"Mení sa mapa na {1}... "
+	}
+
+	"Command is in-game only"
+	{
+		"sk"		"Tento príkaz može byt pouzitý iba v hre."
+	}
+
+	"Config not found"
+	{
+		"sk"		"Config  \"{1}\" nebol nájdený. "
+	}
+
+	"Could not connect to database"
+	{
+		"sk"		"Nedá sa spojiť s databázou."
+	}
+
+	"Cvar changed"
+	{
+		"sk"		"Zmenený cvar \"{1}\" na \"{2}\". "
+	}
+
+	"Executed config"
+	{
+		"sk"		"Aplikovaný config \"{1}\". "
+	}
+
+	"Invalid Amount"
+	{
+		"sk"		"Nesprávna hodnota"
+	}
+
+	"Failed to query database"
+	{
+		"sk"		"Nedal sa vykonať dotaz v databázi."
+	}
+
+	"Invalid SteamID specified"
+	{
+		"sk"		"Nesprávne zadané Steam ID (Musí začínat s 'STEAM_0:')"
+	}
+
+	"Kick player"
+	{
+		"sk"		"Vyhodiť hráča"
+	}
+
+	"Kicked by admin"
+	{
+		"sk"		"Vyhodený adminom."
+	}
+
+	"Kicked player"
+	{
+		"sk"		"Hráč '{1}' bol vyhodený"
+	}
+
+	"Map was not found"
+	{
+		"sk"		"Mapa {1} nebola nájdená. "
+	}
+
+	"More than one client matched"
+	{
+		"sk"		"Viac ako jeden admin bol nájdený pre zadané kritéria."
+	}
+
+	"More than one client matches"
+	{
+		"sk"		"Viac ako jeden admin bol nájdený pre zadané kritéria \"{1}\" "
+	}
+
+	"Name"
+	{
+		"sk"		"Meno"
+	}
+
+	"No"
+	{
+		"sk"		"Nie"
+	}
+
+	"No Votes Cast"
+	{
+		"sk"		"Žiadne hlasovanie"
+	}
+
+	"No access to cvar"
+	{
+		"sk"		"Nemáte prístup k tomuto cvaru."
+	}
+
+	"No matching client"
+	{
+		"sk"		"Žiadna zhoda"
+	}
+
+	"No matching clients"
+	{
+		"sk"		"Žiadna zhoda"
+	}
+
+	"Off"
+	{
+		"sk"		"Vypnúť"
+	}
+
+	"On"
+	{
+		"sk"		"Zapnúť"
+	}
+
+	"Player has since died"
+	{
+		"sk"		"Akcia nemôže byt vykonaná, pretože hráč uz zomrel."
+	}
+
+	"Player no longer available"
+	{
+		"sk"		"Vybraný hráč už odišiel."
+	}
+
+	"See console for output"
+	{
+		"sk"		"Pozri konzolu."
+	}
+
+	"Vote in Progress"
+	{
+		"sk"		"Hlasovanie už bolo spustené."
+	}
+
+	"Vote Select"
+	{
+		"sk"		"{1} vybral {2}."
+	}
+
+	"Vote Not In Progress"
+	{
+		"sk"		"Hlasovanie ešte nebolo spustené."
+	}
+
+	"Vote Delay Seconds"
+	{
+		"sk"		"Musíš čakat {1} sekúnd pred ďalším hlasovaním."
+	}
+
+	"Vote Delay Minutes"
+	{
+		"sk"		"Musíš čakat {1} minút pred ďalším hlasovaním."
+	}
+
+	"Value of cvar"
+	{
+		"sk"		"Hodnota cvaru \"{1}\": \"{2}\"  "
+	}
+
+	"Unable to target"
+	{
+		"sk"		"Akcia sa nedá vykonať na vybranom hráčovi."
+	}
+
+	"Unable to find cvar"
+	{
+		"sk"		"Nedá sa najsť cvar: {1}  "
+	}
+
+	"Target must be alive"
+	{
+		"sk"		"Táto akcia môže byť vykonaná iba na živom hráčovi."
+	}
+
+	"Target is not in game"
+	{
+		"sk"		"Tento hráč ešte nieje úplne v hre."
+	}
+
+	"Target must be dead"
+	{
+		"sk"		"Táto akcia musí byť vykonaná na mŕtvom hráčovi."
+	}
+
+	"Slayed player"
+	{
+		"sk"		"Zabitý hráč '{1}' "
+	}
+
+	"Reload admins"
+	{
+		"sk"		"Znovunačítať adminov."
+	}
+
+	"Played Sound"
+	{
+		"sk"		"Pustil zvuk hráčovi '{1}'  "
+	}
+
+	"Cannot change vote"
+	{
+		"sk"		"Nedá sa zmeniť výber pre toto hlasovanie."
+	}
+
+	"Cannot participate in vote"
+	{
+		"sk"		"Nemôžte hlasovať."
+	}
+
+	"Slapped player"
+	{
+		"sk"		"Slapnutý hráč '{1}' "
+	}
+
+}

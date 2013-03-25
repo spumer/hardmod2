@@ -1,0 +1,82 @@
+"Games"
+{	
+	"cstrike"
+	{		
+		"Keys"
+		{
+			"ClientSettingsPatch_Windows"	"\xEB"
+			"ClientSettingsPatch_Linux"	"\x90\xE9"
+		}
+		"Offsets"
+		{
+			"ClientSettingsOffset"
+			{
+				"windows"		"58"
+				"linux"			"282"
+			}
+			"GivesCtUseBonusOffset"
+			{
+				"windows"		"23"
+				"linux"			"65"
+			}
+		}
+		"Signatures"
+		{
+			"ClientSettings"
+			{
+				"library"		"server"				
+				"windows"		"\x56\x8B\x74\x2A\x2A\x8B\x2A\x2A\x85\xC0\x57\x74\x2A\x0F\x2A\x2A\x2A\x2A\x02\x33\xC0\x8B\x0D\x2A\x2A\x2A\x2A\x8B\x11\x68\x2A\x2A\x2A\x2A\x50"
+				"linux"			"@_ZN12CCSGameRules21ClientSettingsChangedEP11CBasePlayer"
+			}
+			"GivesCtUseBonus"
+			{
+				"library"		"server"
+				"windows"		"\xA1\x2A\x2A\x2A\x2A\x8B\x2A\x2A\x2A\x83\x80\x2A\x2A\x00\x00\x2A\x6A\x00\x6A\x00\x6A\x01"
+				"linux"			"@_ZN8CHostage14GiveCTUseBonusEP9CCSPlayer"
+			}
+			"DescriptionName"
+			{
+				"library"		"server"
+				"windows"		"\x43\x6F\x75\x6E\x74\x65\x72\x2D\x53\x74\x72\x69\x6B\x65\x3A\x20"
+				"linux"			"\x43\x6F\x75\x6E\x74\x65\x72\x2D\x53\x74\x72\x69\x6B\x65\x3A\x20"
+			}
+			"M3Spread"
+			{
+				"library"		"server"
+				"windows"		"\x71\x3D\x8A\x3D"
+				"linux"			"\x71\x3D\x8A\x3D"
+			}		
+		}	
+	}
+	"left4dead2"
+	{		
+		"Keys"	
+		{
+			"M60PrimaryAttackPatch_Windows"		"\xEB"
+			"M60PrimaryAttackPatch_Linux"		"\xEB"
+		}
+		"Offsets"
+		{
+			"M60PrimaryAttackOffset"
+			{
+				"windows"		"172"
+				"linux"			"183"
+			}		
+		}
+		"Signatures"
+		{
+			"M60PrimaryAttack"
+			{
+				"library"		"server"
+				"windows"		"\x53\x56\x57\x8B\xF1\xE8\x2A\x2A\x2A\x2A\x80\xBE\x2A\x2A\x2A\x2A\x2A\x74\x2A\xD9"
+				"linux"			"@_ZN10CRifle_M6013PrimaryAttackEv"
+			}
+			"DescriptionName"
+			{
+				"library"		"server"
+				"windows"		"\x4C\x65\x66\x74\x20\x34\x20\x44\x65\x61"
+				"linux"			"\x4C\x65\x66\x74\x20\x34\x20\x44\x65\x61"
+			}
+		}
+	}
+}

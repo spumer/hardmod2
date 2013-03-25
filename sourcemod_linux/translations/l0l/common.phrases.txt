@@ -1,0 +1,253 @@
+"Phrases"
+{
+	"Access"
+	{
+		"l0l"		"4cc3ss"
+	}
+
+	"Cancel vote"
+	{
+		"l0l"		"C4nc3l v073"
+	}
+
+	"Admin cache refreshed"
+	{
+		"l0l"		"4dmin c4ch3 h4s b33n r3fr3sh3d."
+	}
+
+	"Cancelled Vote"
+	{
+		"l0l"		"C4nc3ll3d t3h v073."
+	}
+
+	"Name"
+	{
+		"l0l"		"N4m3"
+	}
+
+	"No"
+	{
+		"l0l"		"N0"
+	}
+
+	"No Votes Cast"
+	{
+		"l0l"		"N0 v073s w3r3 c4s7."
+	}
+
+	"Reload admins"
+	{
+		"l0l"		"R3104d 4dmins"
+	}
+
+	"See console for output"
+	{
+		"l0l"		"S33 c0ns013 f0r 0u7pu7"
+	}
+
+	"No access to cvar"
+	{
+		"l0l"		"Y0u d0 n0t h4v3 4cc3ss 70 7his cv4r."
+	}
+
+	"No matching client"
+	{
+		"l0l"		"N0 m47ching c1i3n7 w4s f0und"
+	}
+
+	"Slayed player"
+	{
+		"l0l"		"S14y3d p14y3r '{1}'"
+	}
+
+	"Yes"
+	{
+		"l0l"		"Y3s"
+	}
+
+	"Vote in Progress"
+	{
+		"l0l"		"4 v073 is 41r34dy in pr0gr3ss."
+	}
+
+	"Vote Select"
+	{
+		"l0l"		"{1} h4s ch0s3n {2}."
+	}
+
+	"Vote Not In Progress"
+	{
+		"l0l"		"4 v073 is n07 in pr0gr3ss atm."
+	}
+
+	"Cannot be performed on dead"
+	{
+		"l0l"		"7his 4c7i0n c4nn07 b3 p3rf0rm3d 0n d34d c1i3n7 \"{1}\""
+	}
+
+	"Cannot target bot"
+	{
+		"l0l"		"Un4bl3 70 p3rf0rm 7his c0mm4nd 0n 4 b0t."
+	}
+
+	"Changing map"
+	{
+		"l0l"		"Ch4nging m4p 70 {1}..."
+	}
+
+	"Command is in-game only"
+	{
+		"l0l"		"7his c0mm4nd c4n 0n1y b3 us3d in-g4m3."
+	}
+
+	"Config not found"
+	{
+		"l0l"		"C0nfig fi13 \"{1}\" n07 f0und."
+	}
+
+	"Could not connect to database"
+	{
+		"l0l"		"C0u1d n0t c0nn3c7 70 73h d4t4b4s3."
+	}
+
+	"Cvar changed"
+	{
+		"l0l"		"Ch4ng3d cv4r \"{1}\" to \"{2}\"."
+	}
+
+	"Executed config"
+	{
+		"l0l"		"3x3cu73d c0nfig \"{1}\"."
+	}
+
+	"Failed to query database"
+	{
+		"l0l"		"Ph4i13d 70 qu3ry d4t4b4s3."
+	}
+
+	"Invalid Amount"
+	{
+		"l0l"		"Inv41id 4mm0un7 sp3cifi3d."
+	}
+
+	"Kick player"
+	{
+		"l0l"		"Kick p14y3r"
+	}
+
+	"Kicked by admin"
+	{
+		"l0l"		"kick3d by 4dmin."
+	}
+
+	"Kicked player"
+	{
+		"l0l"		"Kick3d p14y3r '{1}'"
+	}
+
+	"Invalid SteamID specified"
+	{
+		"l0l"		"Y0u h4v3 sp3cifi3d 4n inv41id St34m ID (mus7 s74r7 wi7h 'STEAM_0:')."
+	}
+
+	"Map was not found"
+	{
+		"l0l"		"M4p {1} w4s n0t f0und."
+	}
+
+	"More than one client matched"
+	{
+		"l0l"		"M0r3 th4n 0ne c1i3n7 m4tch3d 73h giv3n p4773rn."
+	}
+
+	"Slapped player"
+	{
+		"l0l"		"S14pp3d p14y3r '{1}\""
+	}
+
+	"Target is not in game"
+	{
+		"l0l"		"73h giv3n p14y3r is n0t fu11y in-g4m3 yet."
+	}
+
+	"More than one client matches"
+	{
+		"l0l"		"M0r3 th4n 0n3 c1i3n7 m4tch3s 73h p4773rn \"{1}\""
+	}
+
+	"No matching clients"
+	{
+		"l0l"		"N0 m47ching c1i3n7s w3r3 f0und."
+	}
+
+	"Played Sound"
+	{
+		"l0l"		"P14y3d s0und 0n p14y3r '{1}'"
+	}
+
+	"Player has since died"
+	{
+		"l0l"		"4c7i0n c4nn0t b3 p3rf0rm3d, 73h p14y3r h4s di3d."
+	}
+
+	"Player no longer available"
+	{
+		"l0l"		"73h p14y3r y0u h4v3 s3l3c73d is n0 l0ng3r 4v4i14b1e."
+	}
+
+	"Target must be alive"
+	{
+		"l0l"		"7his c0mm4nd c4n 0n1y b3 us3d 0n 41iv3 p14y3rs."
+	}
+
+	"Target must be dead"
+	{
+		"l0l"		"7his c0mm4nd c4n 0n1y b3 us3d 0n d34d p14y3rs."
+	}
+
+	"Unable to find cvar"
+	{
+		"l0l"		"Un4bl3 t0 find cv4r: {1}"
+	}
+
+	"Unable to target"
+	{
+		"l0l"		"Y0u c4nn07 74rg37 7his p14y3r."
+	}
+
+	"Vote Delay Seconds"
+	{
+		"l0l"		"Y0u mus7 w4i7 {1} s3c0nds b3f0r3 st4r7ing 4no7h3r v0t3."
+	}
+
+	"Vote Delay Minutes"
+	{
+		"l0l"		"Y0u mus7 w4i7 {1} minu73s b3f0r3 st4r7ing 4no7h3r v0t3."
+	}
+
+	"Value of cvar"
+	{
+		"l0l"		"V41u3 of cv4r \"{1}\": \"{2}\""
+	}
+
+	"Off"
+	{
+		"l0l"		"0ff"
+	}
+
+	"On"
+	{
+		"l0l"		"0n"
+	}
+
+	"Cannot participate in vote"
+	{
+		"l0l"		"Y0u c4nn0t p4rt1c1p473 1n 7h1s v0t3."
+	}
+
+	"Cannot change vote"
+	{
+		"l0l"		"Y0u c4nn0t ch4ng3 y0ur s3l3ct10n f0r 7h1s v0t3."
+	}
+
+}

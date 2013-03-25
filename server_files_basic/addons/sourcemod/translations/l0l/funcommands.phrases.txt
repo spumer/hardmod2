@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"Beacon player"
+	{
+		"l0l"		"B34c0n p14y3r"
+	}
+
+	"Blind amount"
+	{
+		"l0l"		"H0w b1ind?"
+	}
+
+	"Burn player"
+	{
+		"l0l"		"Burn p14y3r"
+	}
+
+	"Blind player"
+	{
+		"l0l"		"B1ind p14y3r"
+	}
+
+	"Drug player"
+	{
+		"l0l"		"Drug p14y3r"
+	}
+
+	"FireBomb player"
+	{
+		"l0l"		"fir3b0mb p14y3r"
+	}
+
+	"Freeze player"
+	{
+		"l0l"		"Fr33z3 p14y3r"
+	}
+
+	"FreezeBomb player"
+	{
+		"l0l"		"Fr33z3b0mb p14y3r"
+	}
+
+	"Froze target"
+	{
+		"l0l"		"fr0ze {1}."
+	}
+
+	"Fully blind"
+	{
+		"l0l"		"Fu11y b1ind"
+	}
+
+	"Gravity High"
+	{
+		"l0l"		"Gr4vi7y High"
+	}
+
+	"Gravity Low"
+	{
+		"l0l"		"Gr4vi7y L0w"
+	}
+
+	"Gravity Normal"
+	{
+		"l0l"		"Gr4vi7y N0rm41"
+	}
+
+	"Gravity Very Low"
+	{
+		"l0l"		"Gr4vi7y V3ry L0w"
+	}
+
+	"Gravity Very High"
+	{
+		"l0l"		"Gr4vi7y V3ry High"
+	}
+
+	"Gravity amount"
+	{
+		"l0l"		"Gr4vi7y?"
+	}
+
+	"Gravity player"
+	{
+		"l0l"		"Gr4vi7y p14y3r"
+	}
+
+	"Half blind"
+	{
+		"l0l"		"H41f b1ind"
+	}
+
+	"No blind"
+	{
+		"l0l"		"N0 b1ind"
+	}
+
+	"NoClip player"
+	{
+		"l0l"		"N0C1ip p14y3r"
+	}
+
+	"Set blind on target"
+	{
+		"l0l"		"us3d b1ind on {1}."
+	}
+
+	"Set gravity on target"
+	{
+		"l0l"		"s3t {1}'s gr4vi7y."
+	}
+
+	"Set target on fire"
+	{
+		"l0l"		"S37 {1} 0n fir3."
+	}
+
+	"Till Explodes"
+	{
+		"l0l"		"{2} s3c0nds un7i1 {1} exp10d3s"
+	}
+
+	"TimeBomb player"
+	{
+		"l0l"		"7im3b0mb p14y3r"
+	}
+
+	"Toggled FireBomb on target"
+	{
+		"l0l"		"70gg13d fir3b0mb 0n {1}."
+	}
+
+	"Toggled FreezeBomb on target"
+	{
+		"l0l"		"70gg13d fr33z3b0mb 0n {1}."
+	}
+
+	"Toggled TimeBomb on target"
+	{
+		"l0l"		"70gg13d 7im3b0mb 0n {1}."
+	}
+
+	"Toggled beacon on target"
+	{
+		"l0l"		"7ogg13d b34c0n 0n {1}."
+	}
+
+	"Toggled drug on target"
+	{
+		"l0l"		"70gg13d drugs 0n {1}"
+	}
+
+	"Toggled noclip on target"
+	{
+		"l0l"		"70gg13d n0c1ip 0n {1}"
+	}
+
+	"Unfrozen"
+	{
+		"l0l"		"Y0u 4r3 n0w unfr0z3n."
+	}
+
+	"You will be unfrozen"
+	{
+		"l0l"		"Y0u w1ll b3 unfr0z3n 1n {1} 53c0nd5."
+	}
+
+}

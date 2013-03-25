@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Muted target"
+	{
+		"no"		"Mutet {1]."
+	}
+
+	"Gagged target"
+	{
+		"no"		"Gagget {1}."
+	}
+
+	"Silenced target"
+	{
+		"no"		"Mutet {1}."
+	}
+
+	"Ungagged target"
+	{
+		"no"		"Fjernet gag for {1}."
+	}
+
+	"Unmuted target"
+	{
+		"no"		"Fjernet mute for {1}."
+	}
+
+	"Unsilenced target"
+	{
+		"no"		"Fjernet mute for {1}."
+	}
+
+	"Gag/Mute player"
+	{
+		"no"		"Gag/Mute spiller"
+	}
+
+	"Choose Type"
+	{
+		"no"		"Velg type"
+	}
+
+}

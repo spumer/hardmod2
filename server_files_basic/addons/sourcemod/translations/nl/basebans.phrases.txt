@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban added"
+	{
+		"nl"		"Ban toegevoegd."
+	}
+
+	"Ban player"
+	{
+		"nl"		"Verban speler"
+	}
+
+	"Ban reason"
+	{
+		"nl"		"Ban reden"
+	}
+
+	"Banned player"
+	{
+		"nl"		"Speler \"{1}\" verbannen voor {2} minuten."
+	}
+
+	"Banned player reason"
+	{
+		"nl"		"Speler \"{1}\" verbannen voor {2} minuten (reden: {3})."
+	}
+
+	"Cannot ban that IP"
+	{
+		"nl"		"Je kunt dat IP niet bannen."
+	}
+
+	"Permabanned player"
+	{
+		"nl"		"Speler \"{1}\" is permanent verbannen."
+	}
+
+	"Removed bans matching"
+	{
+		"nl"		"Ban aanpassings filter verwijdert: {1} "
+	}
+
+	"Permabanned player reason"
+	{
+		"nl"		"Speler \"{1}\" is permanent verbannen (reden: {2})."
+	}
+
+}

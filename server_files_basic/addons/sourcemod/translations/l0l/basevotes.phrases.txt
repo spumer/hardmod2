@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"Ban vote"
+	{
+		"l0l"		"B4n v073"
+	}
+
+	"Confirm Vote"
+	{
+		"l0l"		"C0nfirm v073"
+	}
+
+	"Change Map To"
+	{
+		"l0l"		"Ch4ng3 m4p 70 {1}?"
+	}
+
+	"Initiate Vote"
+	{
+		"l0l"		"Ini7i473d 4 v073: {1}"
+	}
+
+	"Kick vote"
+	{
+		"l0l"		"Kick v073"
+	}
+
+	"Map Vote"
+	{
+		"l0l"		"M4p v073: {1}"
+	}
+
+	"Map vote"
+	{
+		"l0l"		"M4p v073"
+	}
+
+	"Vote End"
+	{
+		"l0l"		"T3h 4nsw3r 70 {1} is: {2}."
+	}
+
+	"Voteban Player"
+	{
+		"l0l"		"B4n {1}?"
+	}
+
+	"Votekick Player"
+	{
+		"l0l"		"Kick {1}?"
+	}
+
+	"Initiated Vote Ban"
+	{
+		"l0l"		"Ini7i473d 4 b4n v073 4g4ins7 {1}."
+	}
+
+	"Initiated Vote Kick"
+	{
+		"l0l"		"Ini7i473d 4 kick v073 4g4ins7 {1}."
+	}
+
+	"Initiated Vote Map"
+	{
+		"l0l"		"Ini7i473d 4 m4p v073"
+	}
+
+	"Vote Failed"
+	{
+		"l0l"		"V073 ph4i13d. {1}%% v073 r3quir3d. (R3ci3v3d {2}%% of {3} v073s.)"
+	}
+
+	"Vote Successful"
+	{
+		"l0l"		"V073 Succ3ssfu1. (R3ci3v3d {1}%% of {2} v073s)"
+	}
+
+	"Map Vote In Use"
+	{
+		"l0l"		"4n07h3r 4dm1n 15 curr3n7ly u51n6 7h3 m4p v073 m3nu."
+	}
+
+}

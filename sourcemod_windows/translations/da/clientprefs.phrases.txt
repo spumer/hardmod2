@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Cookie Value"
+	{
+		"da"		"{1}'s værdi er {2}"
+	}
+
+	"Client Settings"
+	{
+		"da"		"Klient indstillinger"
+	}
+
+	"Choose Option"
+	{
+		"da"		"Vælg valgmulighed"
+	}
+
+	"Cookie Changed Value"
+	{
+		"da"		"Skifted værdien af cookien \"{1}\" til \"{2}\" "
+	}
+
+	"Cookie List"
+	{
+		"da"		"Sourcemod Cookie liste"
+	}
+
+	"No Console"
+	{
+		"da"		"Kan ikke vise indstillingernes menu til konsolen"
+	}
+
+	"Printing Cookie List"
+	{
+		"da"		"Printer cookie listen til konsolen."
+	}
+
+	"Cookie not Found"
+	{
+		"da"		"Kunne ikke finde cookien  \"{1}\""
+	}
+
+	"Protected Cookie"
+	{
+		"da"		"Kan ikke ændre værdien af den beskyttede cookie \"{1}\""
+	}
+
+}

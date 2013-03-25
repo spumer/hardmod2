@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Slap damage"
+	{
+		"l0l"		"S14p d4m4g3"
+	}
+
+	"Slap player"
+	{
+		"l0l"		"S74p P14y3r"
+	}
+
+	"Slapped target"
+	{
+		"l0l"		"S14pp3d {1}."
+	}
+
+	"Slay player"
+	{
+		"l0l"		"S14y p14y3r"
+	}
+
+	"Slayed target"
+	{
+		"l0l"		"Sl4y3d"
+	}
+
+	"Dead Player Rename"
+	{
+		"l0l"		"{1} w1ll b3 r3n4m3d 0n 7h3 n3x7 r0und."
+	}
+
+	"Name changed"
+	{
+		"l0l"		"4n 4dm1n h45 ch4n63d y0ur n4m3"
+	}
+
+	"Rename player"
+	{
+		"l0l"		"R3n4m3 pl4y3r"
+	}
+
+	"Renamed target"
+	{
+		"l0l"		"R3n4m3d {1}."
+	}
+
+}

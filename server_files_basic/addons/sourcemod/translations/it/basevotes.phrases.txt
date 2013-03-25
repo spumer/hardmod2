@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"Votekick Player"
+	{
+		"it"		"Kickiamo {1}?  "
+	}
+
+	"Voteban Player"
+	{
+		"it"		"Banniamo {1}?  "
+	}
+
+	"Vote Successful"
+	{
+		"it"		"Voto Completato con successo. (Ricevuti {1}%% su {2} voti)  "
+	}
+
+	"Vote Failed"
+	{
+		"it"		"Voto fallito. {1}%% di voti richiesti. (Ricevuti {2}%% su {3} voti)  "
+	}
+
+	"Vote End"
+	{
+		"it"		"La risposta a {1} è: {2}.  "
+	}
+
+	"Map Vote"
+	{
+		"it"		"Voto Mappa: {1}  "
+	}
+
+	"Map vote"
+	{
+		"it"		"Voto Mappa"
+	}
+
+	"Kick vote"
+	{
+		"it"		"Voto Kick"
+	}
+
+	"Initiated Vote Map"
+	{
+		"it"		"Iniziato il voto mappa."
+	}
+
+	"Initiated Vote Kick"
+	{
+		"it"		"Iniziato il voto per kickare {1}.  "
+	}
+
+	"Initiated Vote Ban"
+	{
+		"it"		"iniziato il voto per bannare {1}.  "
+	}
+
+	"Initiate Vote"
+	{
+		"it"		"Iniziato il voto: {1}  "
+	}
+
+	"Confirm Vote"
+	{
+		"it"		"Conferma Voto"
+	}
+
+	"Change Map To"
+	{
+		"it"		"Cambiamo mappa con {1}?  "
+	}
+
+	"Ban vote"
+	{
+		"it"		"Voto Ban"
+	}
+
+	"Map Vote In Use"
+	{
+		"it"		"Un'altro admin sta attualmente usando il menu per il voto mappa"
+	}
+
+}

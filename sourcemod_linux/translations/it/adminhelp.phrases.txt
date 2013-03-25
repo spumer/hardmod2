@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"No description available"
+	{
+		"it"		"Nessuna descrizione disponibile"
+	}
+
+	"No matching results found"
+	{
+		"it"		"Nessun risultato trovato"
+	}
+
+	"No commands available"
+	{
+		"it"		"Nessun commando disponibile"
+	}
+
+	"Type sm_help to see more"
+	{
+		"it"		"Usa sm_help {1} per vedere ulteriori comandi"
+	}
+
+	"SM help commands"
+	{
+		"it"		"Aiuto SourceMod: Informazioni Comandi"
+	}
+
+	"Entries n - m in page k"
+	{
+		"it"		"Voci {1} - {2} nella pagina {3}  "
+	}
+
+}

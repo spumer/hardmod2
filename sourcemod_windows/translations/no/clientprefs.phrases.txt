@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Protected Cookie"
+	{
+		"no"		"Kan ikke endre verdien til den beskyttede cookien \"{1}\""
+	}
+
+	"Printing Cookie List"
+	{
+		"no"		"Viser cookie-listen i consolen"
+	}
+
+	"No Console"
+	{
+		"no"		"Kan ikke vise innstillingsmenyen i consolen"
+	}
+
+	"Cookie not Found"
+	{
+		"no"		"Fant ikke cookien \"{1}\""
+	}
+
+	"Cookie Value"
+	{
+		"no"		"Verdien til {1} er \"{2}\""
+	}
+
+	"Cookie List"
+	{
+		"no"		"Liste av Sourcemod-cookies"
+	}
+
+	"Cookie Changed Value"
+	{
+		"no"		"Endret verdien for cookie \"{1}\" til \"{2}\""
+	}
+
+	"Client Settings"
+	{
+		"no"		"Klientinnstillinger"
+	}
+
+	"Choose Option"
+	{
+		"no"		"Ta et valg"
+	}
+
+}

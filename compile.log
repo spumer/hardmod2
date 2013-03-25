@@ -1,0 +1,338 @@
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources ACS_Classic.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3752 bytes
+Code size:            22736 bytes
+Data size:            11428 bytes
+Stack/heap size:      16384 bytes; Total requirements:   54300 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources advertisements.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3320 bytes
+Code size:            12624 bytes
+Data size:             2892 bytes
+Stack/heap size:      16384 bytes; Total requirements:   35220 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources coop_human_tank.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3376 bytes
+Code size:            10080 bytes
+Data size:             2256 bytes
+Stack/heap size:      16384 bytes; Total requirements:   32096 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources fix_Sappy2.0.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3676 bytes
+Code size:            14056 bytes
+Data size:             9008 bytes
+Stack/heap size:      16384 bytes; Total requirements:   43124 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_counters.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3616 bytes
+Code size:            22816 bytes
+Data size:             3964 bytes
+Stack/heap size:      16384 bytes; Total requirements:   46780 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_gamemode_scripts.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2124 bytes
+Code size:             5692 bytes
+Data size:             3472 bytes
+Stack/heap size:      16384 bytes; Total requirements:   27672 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_gear_transfer.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           4764 bytes
+Code size:            35756 bytes
+Data size:            10560 bytes
+Stack/heap size:      16384 bytes; Total requirements:   67464 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_itemsspawnremover.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+l4d_itemsspawnremover.sp(102) : warning 203: symbol is never used: "Log"
+Header size:           2460 bytes
+Code size:             5280 bytes
+Data size:             2356 bytes
+Stack/heap size:      16384 bytes; Total requirements:   26480 bytes
+
+1 Warning.
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_kickloadstuckers.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2260 bytes
+Code size:             3368 bytes
+Data size:             2040 bytes
+Stack/heap size:      16384 bytes; Total requirements:   24052 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_map_scripts.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2028 bytes
+Code size:             2712 bytes
+Data size:             1532 bytes
+Stack/heap size:      16384 bytes; Total requirements:   22656 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_powerups_rush.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3828 bytes
+Code size:            19096 bytes
+Data size:             6136 bytes
+Stack/heap size:      16384 bytes; Total requirements:   45444 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_stoptk.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3464 bytes
+Code size:            16264 bytes
+Data size:             4272 bytes
+Stack/heap size:      16384 bytes; Total requirements:   40384 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d_superboss_en.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2988 bytes
+Code size:             8672 bytes
+Data size:             3484 bytes
+Stack/heap size:      16384 bytes; Total requirements:   31528 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_boomerbitchslap.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2928 bytes
+Code size:             5452 bytes
+Data size:             2704 bytes
+Stack/heap size:      16384 bytes; Total requirements:   27468 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_BWDefib.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2436 bytes
+Code size:             3000 bytes
+Data size:             2064 bytes
+Stack/heap size:      16384 bytes; Total requirements:   23884 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_charger_steering.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3472 bytes
+Code size:            10740 bytes
+Data size:             4536 bytes
+Stack/heap size:      16384 bytes; Total requirements:   35132 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_custom_commands.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           9972 bytes
+Code size:           109216 bytes
+Data size:            78380 bytes
+Stack/heap size:      16384 bytes; Total requirements:  213952 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_events.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3276 bytes
+Code size:             7932 bytes
+Data size:             2748 bytes
+Stack/heap size:      16384 bytes; Total requirements:   30340 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_gnome.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           5176 bytes
+Code size:            27348 bytes
+Data size:             7740 bytes
+Stack/heap size:      16384 bytes; Total requirements:   56648 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_knife_unlock.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2028 bytes
+Code size:             2324 bytes
+Data size:             1516 bytes
+Stack/heap size:      16384 bytes; Total requirements:   22252 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_loot.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3032 bytes
+Code size:            68848 bytes
+Data size:            12528 bytes
+Stack/heap size:      16384 bytes; Total requirements:  100792 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4d2_monsterbots.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2552 bytes
+Code size:             9328 bytes
+Data size:             2820 bytes
+Stack/heap size:      16384 bytes; Total requirements:   31084 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources l4dmultislots.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3816 bytes
+Code size:            12892 bytes
+Data size:             3716 bytes
+Stack/heap size:      16384 bytes; Total requirements:   36808 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources L4DRestrictedZones.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3136 bytes
+Code size:            13312 bytes
+Data size:             3408 bytes
+Stack/heap size:      16384 bytes; Total requirements:   36240 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources permamute.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3904 bytes
+Code size:            11108 bytes
+Data size:             4568 bytes
+Stack/heap size:      16384 bytes; Total requirements:   35964 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources rcon_lock.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3696 bytes
+Code size:             9708 bytes
+Data size:             4728 bytes
+Stack/heap size:      16384 bytes; Total requirements:   34516 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources rp_tools.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3368 bytes
+Code size:             9452 bytes
+Data size:             2420 bytes
+Stack/heap size:      16384 bytes; Total requirements:   31624 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources sm_guardian.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           2268 bytes
+Code size:             8336 bytes
+Data size:             2372 bytes
+Stack/heap size:      16384 bytes; Total requirements:   29360 bytes
+
+D:\Left 4 Dead\HM2_Project_v10>"bin\sourcepawn\spcomp.exe" -O2 -Dsources steam-group-admins-http.sp" 
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+steam-group-admins-http.sp(0) : fatal error 120: cannot read from file: "steam-group-admins-http.sp"
+
+Compilation aborted.
+1 Error.
+D:\Left 4 Dead\HM2_Project_v10\sources\ACS_Classic.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\advertisements.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\coop_human_tank.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\fix_Sappy2.0.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_boomerbitchslap.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_BWDefib.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_charger_steering.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_custom_commands.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_events.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_gnome.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_knife_unlock.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_loot.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d2_monsterbots.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4dmultislots.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\L4DRestrictedZones.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_counters.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_gamemode_scripts.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_gear_transfer.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_itemsspawnremover.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_kickloadstuckers.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_map_scripts.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_powerups_rush.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_stoptk.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\l4d_superboss_en.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\permamute.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\rcon_lock.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\rp_tools.smx
+D:\Left 4 Dead\HM2_Project_v10\sources\sm_guardian.smx
+Перемещено файлов:        28.
+--------------------------------------------
+Building hardmod.sp ...
+--------------------------------------------
+Скопировано файлов:         1.
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:          16444 bytes
+Code size:           256324 bytes
+Data size:            84552 bytes
+Stack/heap size:     262140 bytes; Total requirements:  619460 bytes
+Перемещено файлов:         1.
+Скопировано файлов:         1.
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+hardmod.sp(1446) : warning 204: symbol is assigned a value that is never used: "IsFirstRoundAfterLoad"
+hardmod.sp(1446 -- 1802) : warning 203: symbol is never used: "IsPlayerCPUAllowed"
+Header size:          14620 bytes
+Code size:           203160 bytes
+Data size:            74676 bytes
+Stack/heap size:     262140 bytes; Total requirements:  554596 bytes
+
+2 Warnings.
+Перемещено файлов:         1.
+--------------------------------------------
+Built hardmod.sp as .smx
+--------------------------------------------
+--------------------------------------------
+Building l4d_healthglow.sp ...
+--------------------------------------------
+SourcePawn Compiler 1.5.0-dev+3820
+Copyright (c) 1997-2006, ITB CompuPhase, (C)2004-2008 AlliedModders, LLC
+
+Header size:           3404 bytes
+Code size:             9844 bytes
+Data size:             3204 bytes
+Stack/heap size:      16384 bytes; Total requirements:   32836 bytes
+Перемещено файлов:         1.
+--------------------------------------------
+Built l4d_healthglow.sp as .smx
+--------------------------------------------
+Перемещено файлов:         1.
+Перемещено файлов:         1.
+Перемещено файлов:         1.

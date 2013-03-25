@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"_s"
+	{
+		"it"		"{1}"
+	}
+
+	"Back"
+	{
+		"it"		"Indietro"
+	}
+
+	"Exit"
+	{
+		"it"		"Esci"
+	}
+
+	"Next"
+	{
+		"it"		"Successivo"
+	}
+
+	"No Access"
+	{
+		"it"		"Non hai accesso a questo comado"
+	}
+
+	"Previous"
+	{
+		"it"		"Precedente"
+	}
+
+	"all alive players"
+	{
+		"it"		"Tutti i giocatori vivi"
+	}
+
+	"all bots"
+	{
+		"it"		"tutti i bot"
+	}
+
+	"all dead players"
+	{
+		"it"		"tutti i giocatori morti"
+	}
+
+	"all humans"
+	{
+		"it"		"tutti gli umani"
+	}
+
+	"all players"
+	{
+		"it"		"tutti i giocatori"
+	}
+
+	"all spectators"
+	{
+		"it"		"Tutti gli spettatori"
+	}
+
+	"Voted For"
+	{
+		"it"		"{1} ha votato per {2}"
+	}
+
+	"Vote Count"
+	{
+		"it"		"Voti:  {1}/{2}, {3} rimasti"
+	}
+
+	"Changed Vote"
+	{
+		"it"		"{1} ha cambiato il proprio voto con {2}  "
+	}
+
+	"No Vote"
+	{
+		"it"		"Nessun Voto"
+	}
+
+}

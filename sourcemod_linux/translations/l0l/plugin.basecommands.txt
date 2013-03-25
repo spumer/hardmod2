@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"Username"
+	{
+		"l0l"		"Us3rn4m3"
+	}
+
+	"Value of cvar"
+	{
+		"l0l"		"V4lu3 0f cv4r \"{1}\": \"{2}\""
+	}
+
+	"Unable to find cvar"
+	{
+		"l0l"		"Un4bl3 70 find cv4r: {1}"
+	}
+
+	"Removed bans matching"
+	{
+		"l0l"		"R3m0v3d b4ns m47ching fil73r: {1}"
+	}
+
+	"Player is not an admin"
+	{
+		"l0l"		"\"{1}\" is n0t 4n 4dmin."
+	}
+
+	"Player is an admin"
+	{
+		"l0l"		"\"{1}\" is 4n 4dmin."
+	}
+
+	"Kicked target"
+	{
+		"l0l"		"Kick3d"
+	}
+
+	"No access to cvar"
+	{
+		"l0l"		"Y0u d0 n0t h4v3 4cc3ss 70 7his cv4r."
+	}
+
+	"Permabanned player"
+	{
+		"l0l"		"P3rm4n3n71y b4nn3d p14y3r \"{1}\"."
+	}
+
+	"Permabanned player reason"
+	{
+		"l0l"		"P3rm4n3n71y b4nn3d p14y3r \"{1}\" (reason: {2})."
+	}
+
+	"Identify player"
+	{
+		"l0l"		"Id3n7ify p14y3r"
+	}
+
+	"Exec CFG"
+	{
+		"l0l"		"3x3c CFG"
+	}
+
+	"Executed config"
+	{
+		"l0l"		"3x3cu7ing c0nfig \"{1}\"."
+	}
+
+	"Cvar is now protected"
+	{
+		"l0l"		"Cv4r {1} is n0w pr0t3ct3d"
+	}
+
+	"Cvar changed"
+	{
+		"l0l"		"Ch4ng3d cv4r \"{1}\" to \"{2}\"."
+	}
+
+	"Config not found"
+	{
+		"l0l"		"C0nfig fi1e \"{1}\" n0t f0und."
+	}
+
+	"Choose Map"
+	{
+		"l0l"		"Ch00s3 M4p"
+	}
+
+	"Admin cache refreshed"
+	{
+		"l0l"		"4dmin  c4ch3 h4s b33n r3fr3sh3d."
+	}
+
+	"Admin logged in anon"
+	{
+		"l0l"		"\"{1}\" h4s 4cc3ss: {2}"
+	}
+
+	"Admin logged in as"
+	{
+		"l0l"		"\"{1}\" is 10gg3d in 4s \"{2}\" wi7h 4cc3ss: {3}"
+	}
+
+	"Ban added"
+	{
+		"l0l"		"B4n h4s b33n 4dd3d."
+	}
+
+	"Banned player"
+	{
+		"l0l"		"B4nn3d p14t3r \"{1}\" for {2} minu73s."
+	}
+
+	"Banned player reason"
+	{
+		"l0l"		"B4nn3d p14t3r \"{1}\" for {2} minu73s (r34s0n: {3})."
+	}
+
+	"Admin access"
+	{
+		"l0l"		"4dm1n 4cc355"
+	}
+
+	"Kicked target reason"
+	{
+		"l0l"		"K1ck3d {1} (r3450n: {2})"
+	}
+
+}

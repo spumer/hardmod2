@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Choose Type"
+	{
+		"sv"		"Välj typ"
+	}
+
+	"Silenced target"
+	{
+		"sv"		"Tystade {1}."
+	}
+
+	"Muted target"
+	{
+		"sv"		"Dämpade {1}."
+	}
+
+	"Gagged target"
+	{
+		"sv"		"Satte munkavel på {1}"
+	}
+
+	"Ungagged target"
+	{
+		"sv"		"Tog bort munkavel på {1}"
+	}
+
+	"Gag/Mute player"
+	{
+		"sv"		"Sätt munkavel på/dämpa spelare"
+	}
+
+	"Unmuted target"
+	{
+		"sv"		"Odämpade spelare {1}"
+	}
+
+	"Unsilenced target"
+	{
+		"sv"		"Otystade spelare {1}"
+	}
+
+}

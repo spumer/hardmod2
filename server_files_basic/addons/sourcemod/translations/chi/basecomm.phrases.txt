@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Choose Type"
+	{
+		"chi"		"选择类别"
+	}
+
+	"Gagged target"
+	{
+		"chi"		"{1} 已被禁言."
+	}
+
+	"Ungagged target"
+	{
+		"chi"		"{1} 已被解除禁言."
+	}
+
+	"Muted target"
+	{
+		"chi"		"{1} 已被禁音."
+	}
+
+	"Unmuted target"
+	{
+		"chi"		"{1} 已被解除禁音."
+	}
+
+	"Silenced target"
+	{
+		"chi"		"{1} 已静默."
+	}
+
+	"Unsilenced target"
+	{
+		"chi"		"{1} 已被解除静默."
+	}
+
+	"Gag/Mute player"
+	{
+		"chi"		"将玩家禁言/禁音"
+	}
+
+}

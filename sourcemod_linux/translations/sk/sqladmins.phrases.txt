@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"Added group to user"
+	{
+		"sk"		"Úspešne priradená skupina ku vybranému adminovi."
+	}
+
+	"Added groups to user"
+	{
+		"sk"		"Úspešne priradené {1} skupiny ku vybranému adminovi."
+	}
+
+	"Invalid authtype"
+	{
+		"sk"		"Overovacie metódy musia byt 'steam', 'name', alebo 'ip'. "
+	}
+
+	"Invalid immunity"
+	{
+		"sk"		"Imunita musí byt pozitívna číslica."
+	}
+
+	"SQL Admin added"
+	{
+		"sk"		"Admin úspešne pridaný do databáze."
+	}
+
+	"SQL Admin already exists"
+	{
+		"sk"		"Podľa zadaných kritérií už takýto admin existuje."
+	}
+
+	"SQL Admin deleted"
+	{
+		"sk"		"Admin úspešne vymazaný z databáze."
+	}
+
+	"SQL Admin groups reset"
+	{
+		"sk"		"Adminská skupina bola uspesne resetnutá."
+	}
+
+	"SQL Admin not found"
+	{
+		"sk"		"Podľa zadaných kritérií nebol najdený admin."
+	}
+
+	"SQL Group X failed to bind"
+	{
+		"sk"		"Nesprávne nabindovaná skupina: \"{1}\" "
+	}
+
+	"SQL Group deleted"
+	{
+		"sk"		"Skupina úspešne vymazaná z databáze."
+	}
+
+	"SQL Group already exists"
+	{
+		"sk"		"Skupina s takým nazvom už existuje."
+	}
+
+	"SQL Group added"
+	{
+		"sk"		"Skupina úspešne pridaná do databáze."
+	}
+
+	"SQL Group X not found"
+	{
+		"sk"		"Nedá sa nájsť skupina: \"{1}\" "
+	}
+
+	"SQL Group not found"
+	{
+		"sk"		"Skupina s takým názvom nenájdená."
+	}
+
+}

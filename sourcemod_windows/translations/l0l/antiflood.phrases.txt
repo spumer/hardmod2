@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Flooding the server"
+	{
+		"l0l"		"Y0u 4r3 f100ding 73h s3rv3r!"
+	}
+
+}

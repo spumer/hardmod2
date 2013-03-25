@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"WinLimitPlural"
+	{
+		"it"		"la Mappa verra cambiata dopo che un team ha vinto {1} rounds  "
+	}
+
+	"WinLimitAppendPlural"
+	{
+		"it"		", o verrà cambiata dopo che un team ha vinto {1} rounds  "
+	}
+
+	"WinLimitAppend"
+	{
+		"it"		", o verrà cambiata dopo che un team ha vinto un round"
+	}
+
+	"WinLimit"
+	{
+		"it"		"La mappa verrà cambiata dopo che un  team ha vinto un round"
+	}
+
+	"Timeleft"
+	{
+		"it"		"Tempo rimasto per la mappa:"
+	}
+
+	"Thetime"
+	{
+		"it"		"L'orario attuale del server è : {1}   "
+	}
+
+	"Pending Vote"
+	{
+		"it"		"Voto in Attesa"
+	}
+
+	"NoTimelimit"
+	{
+		"it"		"Nessun tempo limite per la mappa"
+	}
+
+	"Next Map"
+	{
+		"it"		"Prossima mappa: {1}  "
+	}
+
+	"MaxRoundsPlural"
+	{
+		"it"		"La mappa verrà cambiata dopo altri {1} rounds  "
+	}
+
+	"MaxRoundsAppendPlural"
+	{
+		"it"		", o verrà cambiata dopo altri {1} rounds"
+	}
+
+	"MaxRoundsAppend"
+	{
+		"it"		", o verrà cambiata dopo un'altro round"
+	}
+
+	"MaxRounds"
+	{
+		"it"		"La mappa verrà cambiata dopo un'altro round"
+	}
+
+	"LastRound"
+	{
+		"it"		"Questo è l'ultimo round!!"
+	}
+
+	"Friendly Fire On"
+	{
+		"it"		"Il Fuoco Amico è abilitato."
+	}
+
+	"Friendly Fire Off"
+	{
+		"it"		"Il Fuoco Amico è disabilitato."
+	}
+
+	"FragLimitPlural"
+	{
+		"it"		"la Mappa verra cambiata dopo che un giocatore raggiungerà {1} kills"
+	}
+
+	"FragLimitAppendPlural"
+	{
+		"it"		",  o verra cambiata dopo che un giocatore raggiungerà {1} kills"
+	}
+
+	"FragLimitAppend"
+	{
+		"it"		",  o verra cambiata dopo che un giocatore raggiungerà 1 kill"
+	}
+
+	"FragLimit"
+	{
+		"it"		"La  mappa verra cambiata dopo che un giocatore raggiungerà 1 kill"
+	}
+
+	"Current Map"
+	{
+		"it"		"La mappa attuale è {1}.  "
+	}
+
+}

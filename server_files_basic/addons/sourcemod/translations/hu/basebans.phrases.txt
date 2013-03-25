@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Ban player"
+	{
+		"hu"		"Játékos kitiltása"
+	}
+
+	"Ban reason"
+	{
+		"hu"		"Kitiltás oka"
+	}
+
+	"Permabanned player"
+	{
+		"hu"		"\"{1}\" azonnali kitiltást kapott"
+	}
+
+	"Permabanned player reason"
+	{
+		"hu"		"\"{1}\" azonnali kitiltást kapott (oka: {2})"
+	}
+
+	"Banned player"
+	{
+		"hu"		"\"{1}\" kitiltva {2} percre"
+	}
+
+	"Banned player reason"
+	{
+		"hu"		"\"{1}\" kitiltva {2} percre (oka: {3})"
+	}
+
+	"Removed bans matching"
+	{
+		"hu"		"Tiltás levétele {1}"
+	}
+
+	"Ban added"
+	{
+		"hu"		"Tiltas hozzáadva a listához"
+	}
+
+	"Cannot ban that IP"
+	{
+		"hu"		"Nem tudod kitiltani azt az IP-t"
+	}
+
+}

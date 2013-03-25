@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"Voteslay Player"
+	{
+		"pt"		"Assassinar {1}?"
+	}
+
+	"Voteff On"
+	{
+		"pt"		"Ligar fogo amigo? {1}"
+	}
+
+	"Voteff Off"
+	{
+		"pt"		"Desligar fogo amigo? {1}"
+	}
+
+	"Voteburn player"
+	{
+		"pt"		"Colocar fogo em {1}?"
+	}
+
+	"Votealltalk On"
+	{
+		"pt"		"Ligar AllTalk? {1}"
+	}
+
+	"Votealltalk Off"
+	{
+		"pt"		"Desligar AllTalk? {1}"
+	}
+
+	"Vote FF"
+	{
+		"pt"		"Votação para fogo amigo"
+	}
+
+	"Slay vote"
+	{
+		"pt"		"Votação para assassinato"
+	}
+
+	"Initiated Vote Slay"
+	{
+		"pt"		"Iniciou uma votação para assassinar {1}."
+	}
+
+	"Initiated Vote Gravity"
+	{
+		"pt"		"Iniciou uma votação para gravidade."
+	}
+
+	"Initiated Vote FF"
+	{
+		"pt"		"Iniciou uma votação para fogo amigo."
+	}
+
+	"Initiated Vote Burn"
+	{
+		"pt"		"Iniciou uma votação para colocar fogo em {1}."
+	}
+
+	"Initiated Vote Alltalk"
+	{
+		"pt"		"Iniciou uma votação para alltalk."
+	}
+
+	"Gravity vote"
+	{
+		"pt"		"Votação para gravidade"
+	}
+
+	"Gravity Vote"
+	{
+		"pt"		"Votação para gravidade: {1}"
+	}
+
+	"Change Gravity To"
+	{
+		"pt"		"Mudar gravidade para {1}?"
+	}
+
+	"Burn vote"
+	{
+		"pt"		"Votação para colocar fogo"
+	}
+
+	"Alltalk vote"
+	{
+		"pt"		"Votação para AllTalk"
+	}
+
+	"Slayed player"
+	{
+		"pt"		"Assassinou o jogador '{1}'"
+	}
+
+}

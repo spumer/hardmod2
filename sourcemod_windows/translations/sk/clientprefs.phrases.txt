@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"Choose Option"
+	{
+		"sk"		"Vyber možnosť"
+	}
+
+	"Client Settings"
+	{
+		"sk"		"Uživaťeľské nastavenia"
+	}
+
+	"No Console"
+	{
+		"sk"		"Menu sa nedá zobrazit v konzole."
+	}
+
+	"Cookie Changed Value"
+	{
+		"sk"		"Zmenená hodnota cookie \"{1}\" na \"{2}\""
+	}
+
+	"Cookie List"
+	{
+		"sk"		"Sourcemod Cookie zoznam"
+	}
+
+	"Cookie Value"
+	{
+		"sk"		"Hodnota {1} je {2}"
+	}
+
+	"Cookie not Found"
+	{
+		"sk"		"Nedá sa nájsť cookie \"{1}\""
+	}
+
+	"Printing Cookie List"
+	{
+		"sk"		"Vypísaný zoznam cookie v konzole."
+	}
+
+	"Protected Cookie"
+	{
+		"sk"		"Nedá sa zmeniť hodnota cookie \"{1}\", pretože je chránene."
+	}
+
+}

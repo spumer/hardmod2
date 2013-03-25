@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Choose Type"
+	{
+		"it"		"Scegli Tipo"
+	}
+
+	"Silenced target"
+	{
+		"it"		"Silenziato {1}.  "
+	}
+
+	"Muted target"
+	{
+		"it"		"Mutato {1}.  "
+	}
+
+	"Unmuted target"
+	{
+		"it"		"Smutato {1}.  "
+	}
+
+	"Unsilenced target"
+	{
+		"it"		"Abilitato a parlare {1}."
+	}
+
+	"Ungagged target"
+	{
+		"it"		"Abilitato nella chat {1}.  "
+	}
+
+	"Gagged target"
+	{
+		"it"		"Bloccato nella chat {1}.  "
+	}
+
+	"Gag/Mute player"
+	{
+		"it"		"Blocca chat/Muta giocatore"
+	}
+
+}

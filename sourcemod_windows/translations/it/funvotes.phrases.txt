@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"Voteslay Player"
+	{
+		"it"		"Slayamo {1}?  "
+	}
+
+	"Voteff On"
+	{
+		"it"		"Attiviamo il fuoco amico? {1}  "
+	}
+
+	"Voteff Off"
+	{
+		"it"		"Disattiviamo il fuoco amico? {1}  "
+	}
+
+	"Voteburn player"
+	{
+		"it"		"Bruciamo il giocatore {1}?  "
+	}
+
+	"Votealltalk On"
+	{
+		"it"		"Attiviamo l'alltalk? {1}  "
+	}
+
+	"Votealltalk Off"
+	{
+		"it"		"Disattiviamo l'alltalk? {1}  "
+	}
+
+	"Vote FF"
+	{
+		"it"		"Vota FF"
+	}
+
+	"Slayed player"
+	{
+		"it"		"Slayato giocatore '{1}'  "
+	}
+
+	"Slay vote"
+	{
+		"it"		"Voto Slay"
+	}
+
+	"Initiated Vote Slay"
+	{
+		"it"		"Iniziato un voto per lo slay di {1}.  "
+	}
+
+	"Initiated Vote Gravity"
+	{
+		"it"		"Iniziato un voto per la gravità."
+	}
+
+	"Initiated Vote FF"
+	{
+		"it"		"Iniziato un voto per il fuoco amico."
+	}
+
+	"Initiated Vote Burn"
+	{
+		"it"		"Iniziato a voto per bruciare {1}.  "
+	}
+
+	"Initiated Vote Alltalk"
+	{
+		"it"		"Iniziato un voto per l'alltalk."
+	}
+
+	"Gravity vote"
+	{
+		"it"		"Voto Gravità"
+	}
+
+	"Gravity Vote"
+	{
+		"it"		"Voto Gravità: {1}  "
+	}
+
+	"Change Gravity To"
+	{
+		"it"		"Cambiamo la gravità con {1}?  "
+	}
+
+	"Alltalk vote"
+	{
+		"it"		"Voto Alltalk"
+	}
+
+	"Burn vote"
+	{
+		"it"		"Voto Bruciatore"
+	}
+
+}

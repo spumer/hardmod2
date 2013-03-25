@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Nextmap Voting Started"
+	{
+		"sv"		"Röstning om nästa bana har börjat."
+	}
+
+	"Vote Nextmap"
+	{
+		"sv"		"Rösta för nästa bana!"
+	}
+
+	"Changed Next Map"
+	{
+		"sv"		"Bytta nästa bana till \"{1}\".  "
+	}
+
+	"Current Map Stays"
+	{
+		"sv"		"Nuvarande banan fortsätter! Röstningen har talat! (Fick {1}%% av {2} röster)  "
+	}
+
+	"Dont Change"
+	{
+		"sv"		"Byt inte"
+	}
+
+	"Current Map Extended"
+	{
+		"sv"		"Den nuvarande banan har förlängts. (Fick {1}%% av {2} röster)  "
+	}
+
+	"Nextmap Voting Finished"
+	{
+		"sv"		"Röstningen om banan har avslutats. Nästa bana kommer att bli {1}. (Fick {2}%% av {3} röster)  "
+	}
+
+	"Extend Map"
+	{
+		"sv"		"Förläng nuvarande bana"
+	}
+
+}

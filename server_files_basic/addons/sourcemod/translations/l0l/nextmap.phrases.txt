@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Next Map"
+	{
+		"l0l"		"N3xt M4p: {1}"
+	}
+
+	"Current Map"
+	{
+		"l0l"		"Curr3n7 M4p"
+	}
+
+	"Map"
+	{
+		"l0l"		"[M4p]"
+	}
+
+	"Map History"
+	{
+		"l0l"		"M4p H1570ry"
+	}
+
+	"Played Time"
+	{
+		"l0l"		"[Pl4y3d 71m3]"
+	}
+
+	"Reason"
+	{
+		"l0l"		"[R3450n f0r 3nd1n6]"
+	}
+
+	"Started"
+	{
+		"l0l"		"[574r73d]"
+	}
+
+	"ago"
+	{
+		"l0l"		"460"
+	}
+
+}

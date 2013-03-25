@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"Blind player"
+	{
+		"pl"		"Oślep gracza"
+	}
+
+	"Burn player"
+	{
+		"pl"		"Podpal gracza"
+	}
+
+	"Drug player"
+	{
+		"pl"		"Naćpaj gracza"
+	}
+
+	"Fully blind"
+	{
+		"pl"		"Całkowicie oślepiony"
+	}
+
+	"Gravity Low"
+	{
+		"pl"		"Niska grawitacja"
+	}
+
+	"Gravity Normal"
+	{
+		"pl"		"Normalna grawitacja"
+	}
+
+	"Gravity Very High"
+	{
+		"pl"		"Bardzo wysoka grawitacja"
+	}
+
+	"Gravity Very Low"
+	{
+		"pl"		"Bardzo niska grawitacja"
+	}
+
+	"Gravity amount"
+	{
+		"pl"		"Grawitacja?"
+	}
+
+	"Gravity High"
+	{
+		"pl"		"Wysoka grawitacja"
+	}
+
+	"Gravity player"
+	{
+		"pl"		"Grawitacja gracza"
+	}
+
+	"Blind amount"
+	{
+		"pl"		"Jak oślepić?"
+	}
+
+	"FireBomb player"
+	{
+		"pl"		"Zmień gracza w ognistą bombę"
+	}
+
+	"FreezeBomb player"
+	{
+		"pl"		"Zmień gracza w zamarzającą bombę"
+	}
+
+	"Froze target"
+	{
+		"pl"		"{1} zamarzł."
+	}
+
+	"NoClip player"
+	{
+		"pl"		"NoClip"
+	}
+
+	"Half blind"
+	{
+		"pl"		"Oślepiony w połowie"
+	}
+
+	"TimeBomb player"
+	{
+		"pl"		"Zmień gracza w bombę zegarową"
+	}
+
+	"Set target on fire"
+	{
+		"pl"		"{1} został podpalony."
+	}
+
+	"Toggled FireBomb on target"
+	{
+		"pl"		"zamienił {1} w ognistą bombę."
+	}
+
+	"Toggled FreezeBomb on target"
+	{
+		"pl"		"zamienił {1} w zamarzającą bombę."
+	}
+
+	"Toggled TimeBomb on target"
+	{
+		"pl"		"zamienił {1} w bombę zegarową."
+	}
+
+	"Till Explodes"
+	{
+		"pl"		"{2} sekund zanim {1} eksploduje."
+	}
+
+	"Toggled drug on target"
+	{
+		"pl"		"Naćpano {1}"
+	}
+
+	"Set gravity on target"
+	{
+		"pl"		"ustawił grawitację dla {1}."
+	}
+
+	"Set blind on target"
+	{
+		"pl"		"użyto oślepienia na {1}."
+	}
+
+	"Toggled noclip on target"
+	{
+		"pl"		"ustawiono NoClip na {1}."
+	}
+
+	"Beacon player"
+	{
+		"pl"		"Oznacz gracza"
+	}
+
+	"Freeze player"
+	{
+		"pl"		"Zamroź gracza"
+	}
+
+	"No blind"
+	{
+		"pl"		"Przywróć wzrok"
+	}
+
+	"Toggled beacon on target"
+	{
+		"pl"		"Ustawiono oznaczenie na {1}"
+	}
+
+	"Unfrozen"
+	{
+		"pl"		"Zostałeś odmrożony."
+	}
+
+	"You will be unfrozen"
+	{
+		"pl"		"Zostaniesz odmrożony za {1} sekund."
+	}
+
+}

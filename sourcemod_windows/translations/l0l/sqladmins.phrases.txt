@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"SQL Group not found"
+	{
+		"l0l"		"N0 gr0up wi7h 73h giv3n n4m3 f0und"
+	}
+
+	"Added group to user"
+	{
+		"l0l"		"Succ3ssfu11y 4dd3d 0n3 gr0up 70 73h giv3n 4dmin."
+	}
+
+	"Added groups to user"
+	{
+		"l0l"		"Succ3ssfu11y 4dd3d {1}  gr0ups 70 73h giv3n 4dmin."
+	}
+
+	"SQL Admin added"
+	{
+		"l0l"		"4dmin Succ3ssfu11y 4dd3d 70 t3h d4t4b4s3."
+	}
+
+	"SQL Admin deleted"
+	{
+		"l0l"		"4dmin Succ3ssfu11y d3l3t3d fr0m 73h d4t4b4s3,"
+	}
+
+	"Invalid immunity"
+	{
+		"l0l"		"Immuni7y mus7 b3 4 p0si7iv3 in73rg3r."
+	}
+
+	"Invalid authtype"
+	{
+		"l0l"		"4u7h 7yp3 mus7 b3 3i7h3r 'steam, 'name', or 'ip'."
+	}
+
+	"SQL Admin already exists"
+	{
+		"l0l"		"4n 4dmin wi7h 73h giv3n cr3d3n7ia1s 41r34dy 3xis7s."
+	}
+
+	"SQL Group already exists"
+	{
+		"l0l"		"4 gr0up wi7h 7his n4m3 41r34dy 3xis7s."
+	}
+
+	"SQL Admin groups reset"
+	{
+		"l0l"		"4dmin's gr0ups h4v3 succ3ssfu11y b33n r3s3t."
+	}
+
+	"SQL Admin not found"
+	{
+		"l0l"		"N0 4dmin wi7h 73h giv3n cr3d3n7ia1s w4s f0und"
+	}
+
+	"SQL Group X failed to bind"
+	{
+		"l0l"		"Gr0up ph4i13d 70 bind: \"{1}\""
+	}
+
+	"SQL Group deleted"
+	{
+		"l0l"		"Gr0up succ3ssfu11y d3l373d fr0m 73h d474b4s3."
+	}
+
+	"SQL Group added"
+	{
+		"l0l"		"Gr0up succ3ssfu11y 4dd3d 70 73h d474b4s3."
+	}
+
+	"SQL Group X not found"
+	{
+		"l0l"		"C0u1d n0t find gr0up \"{1}\""
+	}
+
+}

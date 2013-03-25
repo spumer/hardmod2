@@ -1,0 +1,19 @@
+"Games"
+{
+	"left4dead2"
+	{
+		"Signatures"
+		{
+			/*
+			 *	CFinaleTrigger::StartFinale(CTerrorPlayer *)
+			 */
+			"CFinaleTrigger_StartFinale"
+			{
+				"library"	"server"
+				"linux"		"@_ZN14CFinaleTrigger11StartFinaleEP13CTerrorPlayer"
+				"windows"	"\x81\xEC\x2A\x2A\x2A\x2A\x53\x56\x57\x8B\xBC\x2A\x2A\x2A\x2A\x2A\x33\xDB\x3B\xFB\x8B\xF1\x75\x2A\xBF\x02\x00\x00\x00\x39"
+				/* 81 EC ? ? ? ? 53 56 57 8B BC ? ? ? ? ? 33 DB 3B FB 8B F1 75 ? BF 02 00 00 00 39 */
+			}
+		}
+	}
+}

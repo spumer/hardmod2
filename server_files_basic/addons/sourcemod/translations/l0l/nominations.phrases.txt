@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"Map Nominated"
+	{
+		"l0l"		"{1} h4s n0m1n73d {2}."
+	}
+
+	"Nominate Title"
+	{
+		"l0l"		"N0m1n473 M4p:"
+	}
+
+	"Already Nominated"
+	{
+		"l0l"		"Y0u h4v3 4Lr34dy n0m1nt473d 4 m4p."
+	}
+
+	"Can't Nominate Current Map"
+	{
+		"l0l"		"7h3 m4p y0u ch053 15 7h3 curr3n7 m4p 4nd c4nn07 b3 n0m1n473d"
+	}
+
+	"Current Map"
+	{
+		"l0l"		"Curr3n7 m4p"
+	}
+
+	"Map Already In Vote"
+	{
+		"l0l"		"M4p '{1}' 4lr34dy 1n 7h3 n0m1n4710n5 l157."
+	}
+
+	"Map Already Nominated"
+	{
+		"l0l"		"7h3 m4p y0u ch053 h45 4lr34dy b33n n0m1n473d."
+	}
+
+	"Map Inserted"
+	{
+		"l0l"		"M4p '{1}' 4dd3d 70 7h3 n0m1n4710n5 l157."
+	}
+
+	"Map Nomination Changed"
+	{
+		"l0l"		"{1} h45 ch4n63d h15 n0m1n4710n 70 {2}."
+	}
+
+	"Map in Exclude List"
+	{
+		"l0l"		"7h3 m4p y0u ch053 w45 r3c3n7ly pl4y3d 4nd c4nn07 b3 n0m1n473d"
+	}
+
+	"Max Nominations"
+	{
+		"l0l"		"7h3 m4x1mum 4ll0w3d n0m1n4710n5 h45 b33n r34ch3d."
+	}
+
+	"Nominated"
+	{
+		"l0l"		"N0m1n473d"
+	}
+
+	"Recently Played"
+	{
+		"l0l"		"R3c3n7ly pl4y3d"
+	}
+
+}

@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"Current Map"
+	{
+		"l0l"		"T3h curr3n7 m4p is {1}."
+	}
+
+	"Timeleft"
+	{
+		"l0l"		"Tim3 r3m4ining f0r m4p:"
+	}
+
+	"Thetime"
+	{
+		"l0l"		"73h curr3n7 s3rv3r 7im3 is {1}"
+	}
+
+	"Friendly Fire Off"
+	{
+		"l0l"		"Fri3nd1y Fir3 is dis4b13d"
+	}
+
+	"Friendly Fire On"
+	{
+		"l0l"		"Fri3nd1y Fir3 is 3n4b13d"
+	}
+
+	"Next Map"
+	{
+		"l0l"		"N3x7 M4p: {1}"
+	}
+
+	"FragLimit"
+	{
+		"l0l"		"M4p w1ll ch4n63 4f73r 4 pl4y3r r34ch35 0n3 fr46"
+	}
+
+	"FragLimitAppend"
+	{
+		"l0l"		", 0r ch4n63 m4p 4f73r pl4y3r r34ch35 0n3 fr46"
+	}
+
+	"FragLimitAppendPlural"
+	{
+		"l0l"		", 0r ch4n63 m4p 4f73r pl4y3r r34ch35 {1} fr465"
+	}
+
+	"FragLimitPlural"
+	{
+		"l0l"		"m4p w1ll ch4n63 4f73r 4 pl4y3r r34ch35 {1} fr465"
+	}
+
+	"LastRound"
+	{
+		"l0l"		"7h15 15 7h3 l457 r0und!!"
+	}
+
+	"MaxRounds"
+	{
+		"l0l"		"M4p w1ll ch4n63 4f73r 0n3 m0r3 r0und"
+	}
+
+	"MaxRoundsAppend"
+	{
+		"l0l"		", 0r ch4n63 m4p 4f73r 0n3 m0r3 r0und"
+	}
+
+	"MaxRoundsAppendPlural"
+	{
+		"l0l"		", 0r ch4n63 m4p 4f73r {1} m0r3 r0und5"
+	}
+
+	"MaxRoundsPlural"
+	{
+		"l0l"		"M4p w1ll ch4n63 4f73r {1} m0r3 r0und5"
+	}
+
+	"NoTimelimit"
+	{
+		"l0l"		"N0 71m3l1m17 f0r m4p"
+	}
+
+	"Pending Vote"
+	{
+		"l0l"		"P3nd1n6 v073"
+	}
+
+	"WinLimit"
+	{
+		"l0l"		"M4p w1ll ch4n63 4f73r 4 734m w1n5 0n3 r0und"
+	}
+
+	"WinLimitAppend"
+	{
+		"l0l"		", 0r ch4n63 m4p 4f73r 4 734m w1n5 0n3 r0und"
+	}
+
+	"WinLimitAppendPlural"
+	{
+		"l0l"		", 0r ch4n63 m4p 4f73r 4 734m w1n5 {1} r0und5"
+	}
+
+	"WinLimitPlural"
+	{
+		"l0l"		"M4p w1ll ch4n63 4f73r 4 734m w1n5 {1} r0und5"
+	}
+
+}

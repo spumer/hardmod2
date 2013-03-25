@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"Nominate Title"
+	{
+		"sk"		"Nominovať mapu:"
+	}
+
+	"Nominated"
+	{
+		"sk"		"Nominované"
+	}
+
+	"Recently Played"
+	{
+		"sk"		"Nedávno hrané"
+	}
+
+	"Max Nominations"
+	{
+		"sk"		"Dosiahol si maximálny počet nominácií."
+	}
+
+	"Map in Exclude List"
+	{
+		"sk"		"Vybraná mapa sa hrala nedávno a nemôže byt vybraná znova"
+	}
+
+	"Map Nomination Changed"
+	{
+		"sk"		"{1} zmenil nomináciu na {2}. "
+	}
+
+	"Map Nominated"
+	{
+		"sk"		"{1} nominoval {2}."
+	}
+
+	"Map Inserted"
+	{
+		"sk"		"Mapa '{1}' bola pridaná do zoznamu s mapami na nomináciu.  "
+	}
+
+	"Map Already Nominated"
+	{
+		"sk"		"Mapa ktorú si vybral si už predtým nominoval."
+	}
+
+	"Map Already In Vote"
+	{
+		"sk"		"Mapa '{1}' je už v nominačnej listine."
+	}
+
+	"Already Nominated"
+	{
+		"sk"		"Už si nominoval."
+	}
+
+	"Can't Nominate Current Map"
+	{
+		"sk"		"Aktuálna mapa sa nedá nominovať."
+	}
+
+	"Current Map"
+	{
+		"sk"		"Aktuálna mapa"
+	}
+
+}

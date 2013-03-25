@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Choose Type"
+	{
+		"lv"		"Izvēlies veidu"
+	}
+
+	"Unsilenced target"
+	{
+		"lv"		"Noņēma klusumu no spēlētāja {1}."
+	}
+
+	"Silenced target"
+	{
+		"lv"		"Apklusināja {1}."
+	}
+
+	"Muted target"
+	{
+		"lv"		"Aizliedza runāt {1}.  "
+	}
+
+	"Ungagged target"
+	{
+		"lv"		"Atgriež iespēju runāt {1}."
+	}
+
+	"Unmuted target"
+	{
+		"lv"		"Atgriež iespēju rakstīt {1}."
+	}
+
+	"Gagged target"
+	{
+		"lv"		"Aizliedza rakstīt {1}.  "
+	}
+
+	"Gag/Mute player"
+	{
+		"lv"		"Runas/Rakstīšanas aizliegumi"
+	}
+
+}

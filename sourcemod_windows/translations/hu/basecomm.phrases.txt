@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Gag/Mute player"
+	{
+		"hu"		"Geg/Némitás"
+	}
+
+	"Choose Type"
+	{
+		"hu"		"Tipus kiválasztása"
+	}
+
+	"Gagged target"
+	{
+		"hu"		"{1} gegelve"
+	}
+
+	"Ungagged target"
+	{
+		"hu"		"{1} feloldva"
+	}
+
+	"Muted target"
+	{
+		"hu"		"{1} némitva"
+	}
+
+	"Unmuted target"
+	{
+		"hu"		"{1} feloldva"
+	}
+
+	"Silenced target"
+	{
+		"hu"		"{1} kussoltatva"
+	}
+
+	"Unsilenced target"
+	{
+		"hu"		"{1} feloldva"
+	}
+
+}

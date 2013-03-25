@@ -1,0 +1,42 @@
+"Games"
+{
+	"left4dead2"
+	{
+		"Signatures"
+		{
+			"GetPlayerByCharacter"
+			{
+				"library"	"server"
+				"windows"	"\x8B\x44\x24*\x83\xEC\x08\x83\xF8*\x75\x06\x33\xC0\x83\xC4\x08"
+				"linux"		"@_ZN13CTerrorPlayer20GetPlayerByCharacterE21SurvivorCharacterType"
+			}
+
+			"DefibrillatorOnStartAction"
+			{
+				"library"	"server"
+				"windows"	"\xD9\xEE\x53\x56\x57\x8B\x7C\x24\x14\x6A\x00\x51\xD9\x1C\x24\x68****"
+				"linux"		"@_ZN18CItemDefibrillator13OnStartActionEN17CBaseBackpackItem22BackpackItemActionTypeEP13CTerrorPlayerP11CBaseEntityf"
+			}
+
+			"DefibrillatorOnActionComplete"
+			{
+				"library"	"server"
+				"windows"	"\x8B\x44\x24\x08\x56\x6A\x00\x68****\x68****"
+				"linux"		"@_ZN18CItemDefibrillator16OnActionCompleteEP13CTerrorPlayerP11CBaseEntity"
+			}
+			"CSurvivorDeathModel::Create"
+			{
+				"library"	"server"
+				"windows"	"\x57\x8B\x7C\x24\x08\x85\xFF\x75\x04\x33\xC0\x5F\xC3\x8B\x87\x2C\x01\x00\x00\xC1\xE8"
+				"linux"		"@_ZN19CSurvivorDeathModel6CreateEP13CTerrorPlayer"
+			}
+			"CBaseEntity::SetAbsOrigin"
+			{
+				"library"	"server"
+				"windows"	"\x83\xEC*\x56\x57\x8B\xF1\xE8****\xD9\x86*\x02\x00\x00"
+				"linux"		"@_ZN11CBaseEntity12SetAbsOriginERK6Vector"
+			}
+		}
+	}
+}
+
